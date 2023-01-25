@@ -28,9 +28,9 @@ I've recently joined some engaging local projects. As I learn, I hope to activel
 -	[NumPy-financial](https://numpy.org/numpy-financial) | Open-Source Python NumPy package of basic financial functions
 
 
-### Connect with me:
-- 📧 [Email](mailto:thekristyleigh+githubcontact@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/kristyleighgray/)
+<!-- ### Connect with me:
+- 📧 [Email](mailto:thekristyleigh+githubcontact@gmail.com) -->
+<!-- - 💼 [LinkedIn](https://www.linkedin.com/in/kristyleighgray/) -->
 
 <!-- # Welcome to Kristy Leigh's GitHub
 
