@@ -1,5 +1,7 @@
 # Welcome to my GitHub!
 
+Please note: additional projects are located in my Education account with She Codes Australia. Explore more projects here: https://github.com/Ms-KL<br>
+
 I am an emerging Developer and actively seeking a role in AI, Development and/or Data. I’m interested in an entry level position and willing and excited to learn new programming languages and skills.
 
 ## She Codes Plus Program:
