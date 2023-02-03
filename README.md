@@ -12,8 +12,8 @@ Currently, I am participating in She Codes Plus Program learning HTML, CSS, Pyth
 - ✅ Project 2: Python [Repo](https://github.com/Ms-KL/she-codes-python-weather-project-Ms-KL)
 - ✅ Project 3: Django [Repo](https://github.com/Ms-KL/she-codes-django-news-project-Ms-KL) | [Project Demo Tour](https://www.loom.com/share/fa6a7813a17f41b69c7a54d8ddf87a7a)
 - ✅ Project 4: Django REST Framework [Repo](https://github.com/Ms-KL/she-codes-crowdfunding-api-project-Ms-KL) | [Deployed Project](https://icy-dew-540.fly.dev/)
-- ⏳ Javascript
-- ⏳ React
+- ⏳ Project 5: Javascript & React (coming soon)
+- ⏳ Project 6: She Codes Plus Final Group Project (coming soon)
 
 ## Microsoft Certifications:
 - ✅ [Microsoft
