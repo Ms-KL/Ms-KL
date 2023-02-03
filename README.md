@@ -1,7 +1,5 @@
 # Welcome to my GitHub!
 
-Please note: additional projects are located in my Education account with She Codes Australia. Explore more projects here: https://github.com/Ms-KL-Codes<br>
-
 I am an emerging Developer actively seeking technical employment opportunities. I’m interested in entry-level developer positions and am willing and excited to learn new programming languages and skills.
 
 ## She Codes Plus Program:
