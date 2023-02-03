@@ -2,16 +2,16 @@
 
 Please note: additional projects are located in my Education account with She Codes Australia. Explore more projects here: https://github.com/Ms-KL<br>
 
-I am an emerging Developer and actively seeking a role in AI, Development and/or Data. I’m interested in an entry level position and willing and excited to learn new programming languages and skills.
+I am an emerging Developer actively seeking technical employment opportunities. I’m interested in entry-level developer positions and am willing and excited to learn new programming languages and skills.
 
 ## She Codes Plus Program:
 Currently, I am participating in She Codes Plus Program learning HTML, CSS, Python, Django, JavaScript, React and REST. <br>The [She Codes Plus](https://shecodes.com.au/program/plus/) program is a competitive, respected and influential bootcamp that prepares participants for a career in the tech industry. According to the most recent [Impact Statement](https://shecodes.com.au/impact/) (2021-2022), 72% of She Codes Plus Alumni pivot into tech. The current cohort (2022/2023) had 69x applicants & 27x scholarships offered and I am a Mentor Give-Back Scholarship recipient in the [2022-2023 Cohort](https://shecodes.com.au/blog/introducing-the-she-codes-plus-cohort-for-perth-2022-2023/).
 
 ### 🌱 She Codes Plus Projects & Technologies Learned:
-- ✅ [HTML & CSS](https://ms-kl.github.io/index.html)
-- ✅ [Python](https://github.com/Ms-KL/she-codes-python-weather-project-Ms-KL)
-- ✅ [Django](https://www.loom.com/share/fa6a7813a17f41b69c7a54d8ddf87a7a)
-- ⏳ Django Rest Framework (DRF)
+- ✅ Project 1: HTML & CSS [Repo](https://ms-kl.github.io/index.html) | [Live Website](https://ms-kl.github.io/)
+- ✅ Project 2: Python [Repo](https://github.com/Ms-KL/she-codes-python-weather-project-Ms-KL)
+- ✅ Project 3: Django [Repo](https://github.com/Ms-KL/she-codes-django-news-project-Ms-KL) | [Project Demo Tour](https://www.loom.com/share/fa6a7813a17f41b69c7a54d8ddf87a7a)
+- ✅ Project 4: Django REST Framework [Repo](https://github.com/Ms-KL/she-codes-crowdfunding-api-project-Ms-KL) | [Deployed Project](https://icy-dew-540.fly.dev/)
 - ⏳ Javascript
 - ⏳ React
 
