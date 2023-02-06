@@ -27,7 +27,9 @@ I've recently joined some engaging local projects. As I learn, I hope to activel
 -	[M.A.C.I Project](https://www.linkedin.com/posts/gamecityperth_testing-robotiq-universalrobots-activity-6950223074730348544-gWx0/) @ Game City Espresso Bar | Programming of a barista robot 
 -	[NumPy-financial](https://numpy.org/numpy-financial) | Open-Source Python NumPy package of basic financial functions
 
+### Tech Interests:
+AI, Cyber Security, Robotics, Automation and Game Development
 
-<!-- ### Connect with me:
-- 📧 [Email](mailto:thekristyleigh+githubcontact@gmail.com) -->
-<!-- - 💼 [LinkedIn](https://www.linkedin.com/in/kristyleighgray/) -->
+### Connect with me:
+- 📧 [Email](mailto:thekristyleigh+githubcontact@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kristyleighgray/)
