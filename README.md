@@ -29,7 +29,3 @@ I've recently joined some engaging local projects. As I learn, I hope to activel
 
 ### Tech Interests:
 AI, Cyber Security, Robotics, Automation and Game Development
-
-### Connect with me:
-- 📧 [Email](mailto:thekristyleigh+githubcontact@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/kristyleighgray/)
