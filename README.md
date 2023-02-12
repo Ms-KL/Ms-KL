@@ -41,3 +41,4 @@ Azure AI Fundamentals](https://www.credly.com/badges/cf1a19d2-5f6e-49d2-9524-5eb
 
 ## 🤓 Self-Made Study Guides, Notes & Snippets:
 - [ReactJS: Fetch, Networking & Async Functions](https://gist.github.com/Ms-KL/d5fa3d72ee0f4ba0a28e8e5d93ba12d8)
+- [Quickstart Snippets for starting, running & viewing WIP projects](https://gist.github.com/Ms-KL/7e5954905e26f5dfcc8fea99031a37a9)
