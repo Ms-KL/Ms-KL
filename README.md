@@ -27,8 +27,10 @@ I've recently joined some engaging local projects. As I learn, I hope to activel
 -	[M.A.C.I Project](https://www.linkedin.com/posts/gamecityperth_testing-robotiq-universalrobots-activity-6950223074730348544-gWx0/) @ Game City Espresso Bar | Programming of a barista robot 
 -	[NumPy-financial](https://numpy.org/numpy-financial) | Open-Source Python NumPy package of basic financial functions
 
-### Tech Interests:
-AI, Cyber Security, Robotics, Automation, Software and Game Development
+## Tech Interests:
+- AI, Automation & Robotics
+- Cyber Security
+- Software & Game Development
 
-### Self-Made Study Guides, Notes & Snippets:
-[Ms-KL Gists](https://gist.github.com/Ms-KL)
+## Self-Made Study Guides, Notes & Snippets:
+- [Ms-KL Gists](https://gist.github.com/Ms-KL)
