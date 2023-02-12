@@ -28,4 +28,7 @@ I've recently joined some engaging local projects. As I learn, I hope to activel
 -	[NumPy-financial](https://numpy.org/numpy-financial) | Open-Source Python NumPy package of basic financial functions
 
 ### Tech Interests:
-AI, Cyber Security, Robotics, Automation and Game Development
+AI, Cyber Security, Robotics, Automation, Software and Game Development
+
+### Self-Made Study Guides, Notes & Snippets:
+[Ms-KL Gists](https://gist.github.com/Ms-KL)
