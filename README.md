@@ -40,4 +40,4 @@ Azure AI Fundamentals](https://www.credly.com/badges/cf1a19d2-5f6e-49d2-9524-5eb
 - Software & Game Development
 
 ## 🤓 Self-Made Study Guides, Notes & Snippets:
-- [Ms-KL Gists](https://gist.github.com/Ms-KL)
+- [ReactJS: Fetch, Networking & Async Functions](https://gist.github.com/Ms-KL/d5fa3d72ee0f4ba0a28e8e5d93ba12d8)
