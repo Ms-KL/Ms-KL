@@ -1,10 +1,12 @@
 # Welcome to Kristy's GitHub!
 
 I am an emerging Developer actively seeking technical employment opportunities. I’m interested in entry-level developer positions and am willing and excited to learn new programming languages and skills.
+<br>
 
+**Skip to:** ✨ [Projects](#-she-codes-plus-projects--technologies-learned) ⚡ [Certifications](#-microsoft-certifications) 
 
 -----
-<br>
+
 <img src="images/shecodes-icon.png" width="100px" height="100px" />
 
 
@@ -39,14 +41,14 @@ Status | Tech | Title | Code | Final Product
 -----
 
 
-## ⚡ Microsoft Certifications:
+## ⚡ Certifications:
 - ✅ [Microsoft
 Azure AI Fundamentals](https://www.credly.com/badges/cf1a19d2-5f6e-49d2-9524-5eb88053f091/public_url)
 - ⏳ Microsoft Azure AI Engineer Associate
 
 <br>
 
-## 🎓 Post-Graduate Units @ UWA:
+## 🎓 Tech/Data Post-Grad Units @ UWA:
 - ✅ [Data Analysis and Decision Making](https://handbooks.uwa.edu.au/unitdetails?code=MGMT5504)
 - ✅ [Python Programming for Business](https://handbooks.uwa.edu.au/unitdetails?code=BUSN5101)
 
