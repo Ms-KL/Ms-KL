@@ -3,7 +3,7 @@
 I am an emerging Developer actively seeking technical employment opportunities. I’m interested in entry-level developer positions and am willing and excited to learn new programming languages and skills.
 <br>
 
-**Skip to:** ✨ [Projects](#-she-codes-plus-projects--technologies-learned) ⚡ [Certifications](#-microsoft-certifications) 
+**Skip to:** ✨ [Projects](#-she-codes-plus-projects--technologies-learned) ⚡ [Certifications](#-certifications) 
 
 -----
 
@@ -14,7 +14,6 @@ I am an emerging Developer actively seeking technical employment opportunities. 
 
 I am currently participating in the [She Codes Plus](https://shecodes.com.au/program/plus/) Program learning: `HTML`, `CSS`, `Python`, `Django`, `Django REST Framework`, `JavaScript` & `ReactJS` and will complete my training in April 2023. This program is a competitive, respected and influential bootcamp that prepares participants for a career in the tech industry. 
 
-<br>
 
 ### ✨ She Codes Plus Projects & Technologies Learned:
 
