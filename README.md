@@ -2,13 +2,11 @@
 
 I am an emerging Developer actively seeking technical employment opportunities. I’m interested in entry-level developer positions and am willing and excited to learn new programming languages and skills.
 
-<br>
 
 -----
 <br>
 <img src="images/shecodes-icon.png" width="100px" height="100px" />
 
-<br>
 
 ## She Codes Plus Program:
 
@@ -17,7 +15,6 @@ I am currently participating in the [She Codes Plus](https://shecodes.com.au/pro
 <br>
 
 ### ✨ She Codes Plus Projects & Technologies Learned:
-<br>
 
 #### Major Projects:
 
@@ -41,7 +38,6 @@ Status | Tech | Title | Code | Final Product
 
 -----
 
-<br>
 
 ## ⚡ Microsoft Certifications:
 - ✅ [Microsoft
