@@ -6,7 +6,7 @@ I am an emerging Developer actively seeking technical employment opportunities. 
 ### Kristy's developer journey in 145 seconds
 <br>
 <audio controls>
-  <source src="https://github.com/Ms-KL/Ms-KL/blob/3f6ffbdf7c2517b0db33ebf26fa685dc54a4a0e6/audio/intro_to_kristy_145sec.mp3" type="audio/mpeg">
+  <source src="https://www.dropbox.com/s/lzaaowei9scuy6l/audio_intro_to_kristy_145sec.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
