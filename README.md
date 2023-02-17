@@ -3,6 +3,15 @@
 I am an emerging Developer actively seeking technical employment opportunities. I’m interested in entry-level developer positions and am willing and excited to learn new programming languages and skills.
 <br>
 
+### Kristy's developer journey in 145 seconds
+<br>
+<audio controls>
+  <source src="https://github.com/Ms-KL/Ms-KL/blob/3f6ffbdf7c2517b0db33ebf26fa685dc54a4a0e6/audio/intro_to_kristy_145sec.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+<br>
+
 **Skip to:** ✨ [Projects](#-she-codes-plus-projects--technologies-learned) ⚡ [Certifications](#-certifications) 
 
 -----
