@@ -30,12 +30,12 @@ I am currently participating in the [She Codes Plus](https://shecodes.com.au/pro
 
 | - | Tech | Title | Code |
 | :-- | :-- | :-- | :-- | 
-|✅ | `HTML/CSS` | [Portfolio Website](https://ms-kl.github.io/) | [Repo](https://github.com/Ms-KL/Ms-KL.github.io) |
+|✅ | `HTML`/`CSS` | [Portfolio Website](https://ms-kl.github.io/) | [Repo](https://github.com/Ms-KL/Ms-KL.github.io) |
 |✅ | `Python` | Weather Data Processing | [Repo](https://github.com/Ms-KL/she-codes-python-weather-project-Ms-KL) |
 |✅ | `Django` |  [News Website](https://www.loom.com/share/fa6a7813a17f41b69c7a54d8ddf87a7a)| [Repo](https://github.com/Ms-KL/she-codes-django-news-project-Ms-KL) |
 |✅ | `Django REST Framework` | [Deployed Crowdfunding App (back-end)](https://icy-dew-540.fly.dev/) | [Repo](https://github.com/Ms-KL/she-codes-crowdfunding-api-project-Ms-KL) | 
-|⏳ | `ReactJS` | To-Do list app | [Repo](https://github.com/Ms-KL/todo-list) |
-|⏳ | `ReactJS` | Deployed Crowdfunding App (front-end) | (tba) |
+|⏳ | `React.JS` | To-Do list app | [Repo](https://github.com/Ms-KL/todo-list) |
+|⏳ | `React.JS` | Deployed Crowdfunding App (front-end) | (tba) |
 |⏳ | (tba)| She Codes Plus Final Group Project | (tba) |
 
 <br> 
@@ -46,7 +46,8 @@ I am currently participating in the [She Codes Plus](https://shecodes.com.au/pro
 | - | Tech | Title | Code |
 | :--- | :--- | :--- | :--- |
 |⏳ | `Azure Cognitive Services` | "About Kristy" Chatbot | (tba) |
-|⏳ | `Python` | numpy-financial unit testing | (tba) |
+|⏳ | `DRF`/`REACT.JS` | "Sulphate Safe" App | (tba)
+|⏳ | `Python` | `numpy-financial` test coverage + docs contribution | (tba) |
 
 <br>
 
