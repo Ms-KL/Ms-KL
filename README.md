@@ -4,7 +4,7 @@ I'm Junior Developer and She Codes Plus 22/23 student, ready to commence my firs
 <p>In July 2022, I decided to focus full-time on building the skills and knowledge to become a developer and break into the tech industry. I have since joined the She Codes Plus program, built a portfolio demonstrating my knowledge as a developer, contributed to open-source/community projects and attended numerous workshops, conferences and networking events. I'm passionate about continuous self-learning and actively participate in online learning for programming and AI.
 <br>
 
-🔉
+🔉 [Listen to an introduction spoken by Kristy](https://www.dropbox.com/s/4wc3jeblu89qspr/intro_to_kristy_126sec.mp3?dl=0)
 
 **Skip to:** ✨ [Projects](#-she-codes-plus-projects--technologies-learned) ⚡ [Certifications](#-certifications) 
 
