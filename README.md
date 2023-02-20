@@ -22,33 +22,38 @@ I'm Junior Developer and She Codes Plus 22/23 student, ready to commence my firs
 
 I am currently participating in the [She Codes Plus](https://shecodes.com.au/program/plus/) Program learning: `HTML`, `CSS`, `Python`, `Django`, `Django REST Framework`, `JavaScript` & `ReactJS` and will complete my training in April 2023. This program is a competitive, respected and influential bootcamp that prepares participants for a career in the tech industry. 
 
-
-### ✨ She Codes Plus Projects & Technologies Learned:
-
-#### Major Projects:
-
-Status | Tech | Title | Code | Final Product
---- | --- | --- | --- | ---
-✅ | `HTML & CSS` | Portfolio Website | [Repo](https://github.com/Ms-KL/Ms-KL.github.io) | [Live Website](https://ms-kl.github.io/)
-✅ | `Python` | Weather Data Processing | [Repo](https://github.com/Ms-KL/she-codes-python-weather-project-Ms-KL) |
-✅ | `Django` | News Website | [Repo](https://github.com/Ms-KL/she-codes-django-news-project-Ms-KL) | [Project Demo Tour](https://www.loom.com/share/fa6a7813a17f41b69c7a54d8ddf87a7a)
-✅ | `Django REST Framework` | Crowdfunding Website Part A | [Repo](https://github.com/Ms-KL/she-codes-crowdfunding-api-project-Ms-KL) | [Deployed Project](https://icy-dew-540.fly.dev/)
-⏳ | `ReactJS` | Crowdfunding Website Part B | (coming soon) | (coming soon)
-⏳ | tba | She Codes Plus Final Group Project | (coming soon) | (coming soon)
+-----
+## Projects & Challenges:
 <br>
 
-#### Mini Projects, Apps & Challenges:
+### ✨ She Codes Plus Projects:
 
-Status | Tech | Title | Code | Final Product
---- | --- | --- | --- | ---
-⏳ | `ReactJS` | To-Do list app | [Repo](https://github.com/Ms-KL/todo-list) | (coming soon)
+ - | Tech | Title | Code |
+ :-- | :-- | :-- | :-- | 
+✅ | `HTML/CSS` | [Portfolio Website](https://ms-kl.github.io/) | [Repo](https://github.com/Ms-KL/Ms-KL.github.io) |
+✅ | `Python` | Weather Data Processing | [Repo](https://github.com/Ms-KL/she-codes-python-weather-project-Ms-KL) |
+✅ | `Django` |  [News Website](https://www.loom.com/share/fa6a7813a17f41b69c7a54d8ddf87a7a)| [Repo](https://github.com/Ms-KL/she-codes-django-news-project-Ms-KL) |
+✅ | `Django REST Framework` | [Deployed Crowdfunding App (back-end)](https://icy-dew-540.fly.dev/) | [Repo](https://github.com/Ms-KL/she-codes-crowdfunding-api-project-Ms-KL) | 
+⏳ | `ReactJS` | To-Do list app | [Repo](https://github.com/Ms-KL/todo-list) |
+⏳ | `ReactJS` | Deployed Crowdfunding App (front-end) | (tba) |
+⏳ | (tba)| She Codes Plus Final Group Project | (tba) |
 
 <br> 
 
+
+### ✨ Personal, Community & Open-Source Projects
+
+| - | Tech | Title | Code |
+| :--- | :--- | :--- | :--- |
+|⏳ | `Azure Cognitive Services` | "About Kristy" Chatbot | (tba) |
+|⏳ | `Python` | numpy-financial unit testing | (tba) |
+
+<br>
+
+
 -----
 
-
-## ⚡ Certifications:
+## ⚡ Microsoft Certifications:
 - ✅ [Microsoft
 Azure AI Fundamentals](https://www.credly.com/badges/cf1a19d2-5f6e-49d2-9524-5eb88053f091/public_url)
 - ⏳ Microsoft Azure AI Engineer Associate
