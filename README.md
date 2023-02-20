@@ -28,15 +28,15 @@ I am currently participating in the [She Codes Plus](https://shecodes.com.au/pro
 
 ### ✨ She Codes Plus Projects:
 
- - | Tech | Title | Code |
- :-- | :-- | :-- | :-- | 
-✅ | `HTML/CSS` | [Portfolio Website](https://ms-kl.github.io/) | [Repo](https://github.com/Ms-KL/Ms-KL.github.io) |
-✅ | `Python` | Weather Data Processing | [Repo](https://github.com/Ms-KL/she-codes-python-weather-project-Ms-KL) |
-✅ | `Django` |  [News Website](https://www.loom.com/share/fa6a7813a17f41b69c7a54d8ddf87a7a)| [Repo](https://github.com/Ms-KL/she-codes-django-news-project-Ms-KL) |
-✅ | `Django REST Framework` | [Deployed Crowdfunding App (back-end)](https://icy-dew-540.fly.dev/) | [Repo](https://github.com/Ms-KL/she-codes-crowdfunding-api-project-Ms-KL) | 
-⏳ | `ReactJS` | To-Do list app | [Repo](https://github.com/Ms-KL/todo-list) |
-⏳ | `ReactJS` | Deployed Crowdfunding App (front-end) | (tba) |
-⏳ | (tba)| She Codes Plus Final Group Project | (tba) |
+| - | Tech | Title | Code |
+| :-- | :-- | :-- | :-- | 
+|✅ | `HTML/CSS` | [Portfolio Website](https://ms-kl.github.io/) | [Repo](https://github.com/Ms-KL/Ms-KL.github.io) |
+|✅ | `Python` | Weather Data Processing | [Repo](https://github.com/Ms-KL/she-codes-python-weather-project-Ms-KL) |
+|✅ | `Django` |  [News Website](https://www.loom.com/share/fa6a7813a17f41b69c7a54d8ddf87a7a)| [Repo](https://github.com/Ms-KL/she-codes-django-news-project-Ms-KL) |
+|✅ | `Django REST Framework` | [Deployed Crowdfunding App (back-end)](https://icy-dew-540.fly.dev/) | [Repo](https://github.com/Ms-KL/she-codes-crowdfunding-api-project-Ms-KL) | 
+|⏳ | `ReactJS` | To-Do list app | [Repo](https://github.com/Ms-KL/todo-list) |
+|⏳ | `ReactJS` | Deployed Crowdfunding App (front-end) | (tba) |
+|⏳ | (tba)| She Codes Plus Final Group Project | (tba) |
 
 <br> 
 
