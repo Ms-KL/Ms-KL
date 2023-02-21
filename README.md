@@ -6,7 +6,7 @@ I'm Junior Developer and She Codes Plus 22/23 student, ready to commence my firs
 
 🔉 [Listen to an introduction spoken by Kristy](https://www.dropbox.com/s/4wc3jeblu89qspr/intro_to_kristy_126sec.mp3?dl=0)
 
-**Skip to:** ✨ [Projects](#-she-codes-plus-projects--technologies-learned) ⚡ [Certifications](#-certifications) 
+**Skip to:** ✨ [Projects & Challenges](#projects--challenges) ⚡ [Certifications](#-microsoft-certifications) 
 
 -----
 ## Tech Stack:
@@ -24,13 +24,12 @@ I am currently participating in the [She Codes Plus](https://shecodes.com.au/pro
 
 -----
 ## Projects & Challenges:
-<br>
 
 ### ✨ She Codes Plus Projects:
 
 | - | Tech | Title | Code |
 | :-- | :-- | :-- | :-- | 
-|✅ | `HTML`/`CSS` | [Portfolio Website](https://ms-kl.github.io/) | [Repo](https://github.com/Ms-KL/Ms-KL.github.io) |
+|✅ | `HTML` `CSS` | [Portfolio Website](https://ms-kl.github.io/) | [Repo](https://github.com/Ms-KL/Ms-KL.github.io) |
 |✅ | `Python` | Weather Data Processing | [Repo](https://github.com/Ms-KL/she-codes-python-weather-project-Ms-KL) |
 |✅ | `Django` |  [News Website](https://www.loom.com/share/fa6a7813a17f41b69c7a54d8ddf87a7a)| [Repo](https://github.com/Ms-KL/she-codes-django-news-project-Ms-KL) |
 |✅ | `Django REST Framework` | [Deployed Crowdfunding App (back-end)](https://icy-dew-540.fly.dev/) | [Repo](https://github.com/Ms-KL/she-codes-crowdfunding-api-project-Ms-KL) | 
@@ -45,9 +44,9 @@ I am currently participating in the [She Codes Plus](https://shecodes.com.au/pro
 
 | - | Tech | Title | Code |
 | :--- | :--- | :--- | :--- |
-|⏳ | `Azure Cognitive Services` | "About Kristy" Chatbot | (tba) |
-|⏳ | `DRF`/`REACT.JS` | "Sulphate Safe" App | (tba)
-|⏳ | `Python` | `numpy-financial` test coverage + docs contribution | (tba) |
+|⏳ | `Azure Cognitive Services` | "About Kristy" Chatbot (personal) | (tba) |
+|⏳ | `DRF` `REACT.JS` | "Sulphate Safe" App (personal) | (tba)
+|⏳ | `Python` | `numpy-financial` test coverage + docs contribution (open-source) | (tba) |
 
 <br>
 
