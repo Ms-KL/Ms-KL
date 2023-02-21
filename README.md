@@ -1,15 +1,14 @@
 # Welcome to Kristy's GitHub!
+🔊 [Introduction spoken by Kristy](https://www.dropbox.com/s/4wc3jeblu89qspr/intro_to_kristy_126sec.mp3?dl=0)  🔗 [Linktr.ee](https://linktr.ee/kristyleigh)
 
 I'm Junior Developer and She Codes Plus 22/23 student, ready to commence my first role in the tech industry.
 <p>In July 2022, I decided to focus full-time on building the skills and knowledge to become a developer and break into the tech industry. I have since joined the She Codes Plus program, built a portfolio demonstrating my knowledge as a developer, contributed to open-source/community projects and attended numerous workshops, conferences and networking events. I'm passionate about continuous self-learning and actively participate in online learning for programming and AI.
 <br>
 
-🔉 [Listen to an introduction spoken by Kristy](https://www.dropbox.com/s/4wc3jeblu89qspr/intro_to_kristy_126sec.mp3?dl=0)
-
-**Skip to:** ✨ [Projects & Challenges](#projects--challenges) ⚡ [Certifications](#-microsoft-certifications) 
+**Skip to:** 🚀 [Projects & Challenges](#-projects--challenges) ⚡ [Microsoft Certifications](#-microsoft-certifications) 
 
 -----
-## Tech Stack:
+## 💻 Tech Stack:
 
 <img src="images/stack.png" />
 
@@ -18,14 +17,14 @@ I'm Junior Developer and She Codes Plus 22/23 student, ready to commence my firs
 <img src="images/shecodes-icon.png" width="100px" height="100px" />
 
 
-## She Codes Plus Program:
+## 🧁 She Codes Plus Program:
 
 I am currently participating in the [She Codes Plus](https://shecodes.com.au/program/plus/) Program learning: `HTML`, `CSS`, `Python`, `Django`, `Django REST Framework`, `JavaScript` & `ReactJS` and will complete my training in April 2023. This program is a competitive, respected and influential bootcamp that prepares participants for a career in the tech industry. 
 
 -----
-## Projects & Challenges:
+## 🚀 Projects & Challenges:
 
-### ✨ She Codes Plus Projects:
+### She Codes Plus Projects:
 
 | - | Tech | Title | Code |
 | :-- | :-- | :-- | :-- | 
@@ -40,12 +39,12 @@ I am currently participating in the [She Codes Plus](https://shecodes.com.au/pro
 <br> 
 
 
-### ✨ Personal, Community & Open-Source Projects
+### Personal, Community & Open-Source Projects
 
 | - | Tech | Title | Code |
 | :--- | :--- | :--- | :--- |
 |⏳ | `Azure Cognitive Services` | "About Kristy" Chatbot (personal) | (tba) |
-|⏳ | `DRF` `REACT.JS` | "Sulphate Safe" App (personal) | (tba)
+|⏳ | `DRF` `REACT.JS` | "Sulphite Safe" App (personal) | (tba)
 |⏳ | `Python` | `numpy-financial` test coverage + docs contribution (open-source) | (tba) |
 
 <br>
@@ -66,8 +65,8 @@ Azure AI Fundamentals](https://www.credly.com/badges/cf1a19d2-5f6e-49d2-9524-5eb
 
 <br>
 
-## ❤️ Tech Interests:
-- AI, Automation & Robotics
+## ⭐ Tech Interests:
+- AI, ML, NLP & Automation
 - Cyber Security
 - Software & Game Development
 
