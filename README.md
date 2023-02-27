@@ -1,8 +1,10 @@
 # Welcome to Kristy's GitHub!
 🔊 [Introduction spoken by Kristy](https://www.dropbox.com/s/4wc3jeblu89qspr/intro_to_kristy_126sec.mp3?dl=0)  🔗 [Linktr.ee](https://linktr.ee/kristyleigh)
 
-I'm Junior Developer and She Codes Plus 22/23 student, ready to commence my first role in the tech industry.
-<p>In July 2022, I decided to focus full-time on building the skills and knowledge to become a developer and break into the tech industry. I have since joined the She Codes Plus program, built a portfolio demonstrating my knowledge as a developer, contributed to open-source/community projects and attended numerous workshops, conferences and networking events. I'm passionate about continuous self-learning and actively participate in online learning for programming and AI.
+I'm Junior Developer and She Codes Plus 22/23 student, ready to commence my first role in tech.
+<p>In July 2022, I decided to focus full-time on building the skills and knowledge to become a developer and break into the tech industry. I also proceeded to explore my strong interest in AI & ML. </p>
+<p>I have since joined the She Codes Plus program, built a portfolio demonstrating my knowledge as a developer, contributed to open-source/community projects and attended numerous workshops, conferences and networking events. </p>
+<p>I'm passionate about continuous self-learning and actively participate in online learning for programming and AI.</p>
 <br>
 
 **Skip to:** 🚀 [Projects & Challenges](#-projects--challenges) ⚡ [Microsoft Certifications](#-microsoft-certifications) 
