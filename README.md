@@ -37,7 +37,7 @@ I am currently participating in the [She Codes Plus](https://shecodes.com.au/pro
 | ✅  | `Python`                | Weather Data Processing                                                       | [Repo](https://github.com/Ms-KL/she-codes-python-weather-project-Ms-KL)   |
 | ✅  | `Django`                | [News Website](https://www.loom.com/share/fa6a7813a17f41b69c7a54d8ddf87a7a)   | [Repo](https://github.com/Ms-KL/she-codes-django-news-project-Ms-KL)      |
 | ✅  | `Django REST Framework` | [Crowdfunding App (back-end)](https://icy-dew-540.fly.dev/)                   | [Repo](https://github.com/Ms-KL/she-codes-crowdfunding-api-project-Ms-KL) |
-| ✅  | `React.JS`              | [Crowdfunding App (front-end)](https://prismatic-phoenix-20010b.netlify.app/) | [Repo](https://prismatic-phoenix-20010b.netlify.app/)                     |
+| ✅  | `React.JS`              | [Crowdfunding App (front-end)](https://prismatic-phoenix-20010b.netlify.app/) | [Repo](https://github.com/Ms-KL/crowdfunding)                             |
 | ⏳  | `React.JS`              | To-Do list app                                                                | [Repo](https://github.com/Ms-KL/todo-list)                                |
 | ⏳  | (tba)                   | She Codes Plus Final Group Project                                            | (tba)                                                                     |
 
