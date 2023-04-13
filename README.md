@@ -9,7 +9,8 @@ I'm <b>Junior Developer</b> and She Codes Plus 22/23 student, ready to commence 
 <p>I'm passionate about continuous self-learning and actively participate in online learning for programming and AI.</p>
 <br>
 
-**Skip to:** 🚀 [Projects & Challenges](#-projects--challenges) ⚡ [Microsoft Certifications](#-microsoft-certifications)
+**Skip to:** 🚀 [Projects & Challenges](#-projects--challenges) 
+<!-- ⚡ [Microsoft Certifications](#-microsoft-certifications) -->
 
 ---
 
