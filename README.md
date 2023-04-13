@@ -1,6 +1,6 @@
 # Welcome to Kristy's GitHub!
 
-🔊 [Introduction spoken by Kristy](https://www.dropbox.com/s/4wc3jeblu89qspr/intro_to_kristy_126sec.mp3?dl=0) 🔗 [Linktr.ee](https://linktr.ee/kristyleigh)
+🔗 [Linktr.ee](https://linktr.ee/kristyleigh)
 
 I'm <b>Junior Developer</b> and She Codes Plus 22/23 student, ready to commence my first role in the tech industry.
 
