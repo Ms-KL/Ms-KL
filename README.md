@@ -55,20 +55,16 @@ I am currently participating in the [She Codes Plus](https://shecodes.com.au/pro
 
 ---
 
-## ⚡ Microsoft Certifications:
+## ⚡ Relative Education & Certifications:
 
+- ✅ She Codes Plus 22/23 (HTML, CSS, Javascript, ReactJS, Python, Django, DRF)
 - ✅ [Microsoft
   Azure AI Fundamentals](https://www.credly.com/badges/cf1a19d2-5f6e-49d2-9524-5eb88053f091/public_url)
-- ⏳ Microsoft Azure AI Engineer Associate
+- ✅ [Analytics for All Upskilling - Tracked X WADSIH](https://github.com/Ms-KL/Ms-KL/files/11217428/Graduation_Certificate.-.Kristy_Gray_129330.pdf)
+- ✅ [Graduate Certificate in Commerce - UWA](https://user-images.githubusercontent.com/92511648/231627150-ac6555e2-ff70-4065-b046-761b6cb28676.png)
+  - ✅ [Data Analysis and Decision Making](https://handbooks.uwa.edu.au/unitdetails?code=MGMT5504)
+  - ✅ [Python Programming for Business](https://handbooks.uwa.edu.au/unitdetails?code=BUSN5101)
 
-<br>
-
-## 🎓 Tech/Data Post-Grad Units @ UWA:
-
-- ✅ [Data Analysis and Decision Making](https://handbooks.uwa.edu.au/unitdetails?code=MGMT5504)
-- ✅ [Python Programming for Business](https://handbooks.uwa.edu.au/unitdetails?code=BUSN5101)
-
-<br>
 
 ## ⭐ Tech Interests:
 
