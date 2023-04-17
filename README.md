@@ -1,56 +1,66 @@
 # Welcome to Kristy's GitHub!
 
-🔗 [Linktr.ee](https://linktr.ee/kristyleigh)
+✨ [Portfolio of Work](https://ms-kl.github.io/)
 
-I'm <b>Junior Developer</b> and She Codes Plus 22/23 student, ready to commence my first role in the tech industry.
+I'm a junior developer <b>excited by data</b>, fascinated by AI 🤖 and keen to explore software engineering 💻. 
 
-<p>In July 2022, I decided to focus full-time on building the skills and knowledge to become a developer and break into the tech industry. I also begun to explore my <b>strong interest in AI & ML. </b></p>
-<p>I have since joined the She Codes Plus program, built a portfolio demonstrating my knowledge as a developer, contributed to open-source/community projects and attended numerous workshops, conferences and networking events.</p> 
-<p>I'm passionate about continuous self-learning and actively participate in online learning for programming and AI.</p>
-<br>
+As a <b>compliance, audit and documentation nerd</b> 🤓, I bring excellent attention to detail and organisational prowess to every project.
 
-**Skip to:** 🚀 [Projects & Challenges](#-projects--challenges) 
+
+I'm <b>adaptable, curious, and eager</b> to dive into new technologies, and I love attending industry events, workshops and training sessions to stay up-to-date.
+
+
+I have dabbled in retail management, professional cooking 👩‍🍳, and <b>voice-over acting</b> careers, and you can often find me immersed in D&D 🧙, swing dancing, or playing pinball.
+
+Looking for a developer who's project-driven, <b>loves to learn</b> and gets excited by complex database schemas, but <b>oozes enthusiasm and passion</b>? Let's catch up over coffee ☕, whisky or a game of pinball, and see how my <b>unique skills will add value</b> to your team!
+
+🔗 [Business Card](https://linktr.ee/kristyleigh)
+
+<!-- **Skip to:** 🚀 [Projects & Challenges](#-projects--challenges)  -->
 <!-- ⚡ [Microsoft Certifications](#-microsoft-certifications) -->
 
 ---
 
 ## 💻 Tech Stack:
 
-<img src="images/stack.png" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,py,django" />
 
 ---
 
 <img src="images/shecodes-icon.png" width="100px" height="100px" />
 
-## 🧁 She Codes Plus Program:
+<!-- ## 🧁 She Codes Plus Program:
 
 I am currently participating in the [She Codes Plus](https://shecodes.com.au/program/plus/) Program learning: `HTML`, `CSS`, `Python`, `Django`, `Django REST Framework`, `JavaScript` & `ReactJS` and will complete my training in April 2023. This program is a competitive, respected and influential bootcamp that prepares participants for a career in the tech industry.
 
----
+--- -->
 
 ## 🚀 Projects & Challenges:
 
 ### She Codes Plus Projects:
+✨ = porfolio has been redesigned. Please see my [current Portfolio.](https://ms-kl.github.io/)
 
 | -   | Tech                    | Live / Deployed                                                               | Code                                                                      |
 | :-- | :---------------------- | :---------------------------------------------------------------------------- | :------------------------------------------------------------------------ |
-| ✅  | `HTML` `CSS`            | [Portfolio Website](https://ms-kl.github.io/)                                 | [Repo](https://github.com/Ms-KL/Ms-KL.github.io)                          |
+| ✅  | `HTML` `CSS`            | [Portfolio Website v1 ✨](https://ms-kl.github.io/v1)                                 | [Repo](https://github.com/Ms-KL/Ms-KL.github.io/v1)                          |
 | ✅  | `Python`                | Weather Data Processing                                                       | [Repo](https://github.com/Ms-KL/she-codes-python-weather-project-Ms-KL)   |
-| ✅  | `Django`                | [News Website](https://www.loom.com/share/fa6a7813a17f41b69c7a54d8ddf87a7a)   | [Repo](https://github.com/Ms-KL/she-codes-django-news-project-Ms-KL)      |
-| ✅  | `Django REST Framework` | [Crowdfunding App (back-end)](https://icy-dew-540.fly.dev/)                   | [Repo](https://github.com/Ms-KL/she-codes-crowdfunding-api-project-Ms-KL) |
-| ✅  | `React.JS`              | [Crowdfunding App (front-end)](https://prismatic-phoenix-20010b.netlify.app/) | [Repo](https://github.com/Ms-KL/crowdfunding)                             |
-| ⏳  | `React.JS`              | To-Do list app                                                                | [Repo](https://github.com/Ms-KL/todo-list)                                |
-| ⏳  | (tba)                   | She Codes Plus Final Group Project                                            | (tba)                                                                     |
+| ✅  | `Python` `Django`                | [News Website](https://www.loom.com/share/fa6a7813a17f41b69c7a54d8ddf87a7a)   | [Repo](https://github.com/Ms-KL/she-codes-django-news-project-Ms-KL)      |
+| ✅  | `Python` `Django REST Framework` | [Crowdfunding App (back-end)](https://icy-dew-540.fly.dev/)                   | [Repo](https://github.com/Ms-KL/she-codes-crowdfunding-api-project-Ms-KL) |
+| ✅  | `HTML` `CSS` `React.JS`              | [Crowdfunding App (front-end)](https://prismatic-phoenix-20010b.netlify.app/) | [Repo](https://github.com/Ms-KL/crowdfunding)                             |
+| ✅  | `React.JS`              | To-Do list app                                                                | [Repo](https://github.com/Ms-KL/todo-list)                                |
+| ✅  | `Python` `Django REST Framework` | [Mentor Scheduling Tool (back-end)](https://fully-committed-mentor-scheduling-tool.fly.dev/)                                         | [Repo](https://github.com/SheCodesAus/fully_committed_group_2023_backend)                                                                     |
+| ✅  | `HTML` `CSS` `React.JS` | [Mentor Scheduling Tool (front-end)](https://fullycommitted-mentor-scheduling-tool.netlify.app/)                                         | [Repo](https://github.com/SheCodesAus/fully_committed_group_2023_frontend)                                                                     |
+
 
 <br>
 
-### Personal, Community & Open-Source Projects
+<!-- ### Personal, Community & Open-Source Projects
 
 | -   | Tech                       | Live / Deployed                                                   | Code  |
 | :-- | :------------------------- | :---------------------------------------------------------------- | :---- |
 | ⏳  | `Azure Cognitive Services` | "About Kristy" Chatbot (personal)                                 | (tba) |
 | ⏳  | `DRF` `REACT.JS`           | "Sulphite Safe" App (personal)                                    | (tba) |
-| ⏳  | `Python`                   | `numpy-financial` test coverage + docs contribution (open-source) | (tba) |
+| ⏳  | `Python`                   | `numpy-financial` test coverage + docs contribution (open-source) | (tba) | -->
 
 <br>
 
@@ -65,13 +75,6 @@ I am currently participating in the [She Codes Plus](https://shecodes.com.au/pro
 - ✅ [Graduate Certificate in Commerce - UWA](https://user-images.githubusercontent.com/92511648/231627150-ac6555e2-ff70-4065-b046-761b6cb28676.png)
   - ✅ [Data Analysis and Decision Making](https://handbooks.uwa.edu.au/unitdetails?code=MGMT5504)
   - ✅ [Python Programming for Business](https://handbooks.uwa.edu.au/unitdetails?code=BUSN5101)
-
-
-## ⭐ Tech Interests:
-
-- AI, ML, NLP & Automation
-- Cyber Security
-- Software & Game Development
 
 <br>
 
