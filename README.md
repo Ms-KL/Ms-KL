@@ -10,7 +10,7 @@ As a <b>compliance, audit and documentation nerd</b> 🤓, I bring excellent att
 I'm <b>adaptable, curious, and eager</b> to dive into new technologies, and I love attending industry events, workshops and training sessions to stay up-to-date.
 
 
-I have dabbled in retail management, professional cooking 👩‍🍳, and <b>voice-over acting</b> careers, and you can often find me immersed in D&D 🧙, swing dancing, or playing pinball.
+I'm an experienced Trainer, Senior Administrator and Bookkeeper, and I have also dabbled in retail management, professional cooking 👩‍🍳, and <b>voice-over acting</b> careers. You can often find me immersed in D&D 🧙, swing dancing, or playing pinball.
 
 Looking for a developer who's project-driven, <b>loves to learn</b> and gets excited by complex database schemas, but <b>oozes enthusiasm and passion</b>? Let's catch up over coffee ☕, whisky or a game of pinball, and see how my <b>unique skills will add value</b> to your team!
 
