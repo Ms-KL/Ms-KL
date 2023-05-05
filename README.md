@@ -1,7 +1,9 @@
 # Welcome to Kristy's GitHub!
 
 ✨ [Portfolio of Work](https://ms-kl.github.io/)<br>
-🚀 Currently Building: [Tetris](https://github.com/Ms-KL/tetris) with <img src="https://skillicons.dev/icons?i=py" height="20" />
+🚀 Currently Building: 
+* [Tetris](https://github.com/Ms-KL/tetris) with [Free Code Camp](https://youtu.be/XGf2GcyHPhc?t=9765) with <img src="https://skillicons.dev/icons?i=py" height="20" />
+* Pinball-Scoring
 
 I'm a junior developer <b>excited by data</b>, fascinated by AI 🤖 and keen to explore software engineering 💻. 
 
