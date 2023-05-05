@@ -2,8 +2,8 @@
 
 ✨ [Portfolio of Work](https://ms-kl.github.io/)<br><br>
 🚀 Currently Building: 
-* [Tetris](https://github.com/Ms-KL/tetris) with [Free Code Camp](https://youtu.be/XGf2GcyHPhc?t=9765) with <img src="https://skillicons.dev/icons?i=py" height="20" />
-* Pinball Score Recorder with <img src="https://skillicons.dev/icons?i=py,django" height="20" />
+* [Tetris](https://github.com/Ms-KL/tetris) with [Free Code Camp](https://youtu.be/XGf2GcyHPhc?t=9765) using <img src="https://skillicons.dev/icons?i=py" height="20" />
+* Pinball Score Recorder using <img src="https://skillicons.dev/icons?i=py,django" height="20" />
 
 I'm a junior developer <b>excited by data</b>, fascinated by AI 🤖 and keen to explore software engineering 💻. 
 
