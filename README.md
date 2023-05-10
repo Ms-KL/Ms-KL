@@ -1,11 +1,9 @@
 # Welcome to Kristy's GitHub!
 
 ✨ [Portfolio of Work](https://ms-kl.github.io/)<br><br>
-🚀 Currently Building: 
-* [Tetris](https://github.com/Ms-KL/tetris) with [Free Code Camp](https://youtu.be/XGf2GcyHPhc?t=9765) using <img src="https://skillicons.dev/icons?i=py" height="20" />
-* Pinball Score Recorder using <img src="https://skillicons.dev/icons?i=py,django" height="20" />
+🚀 Currently Building: [Tetris](https://github.com/Ms-KL/tetris) with <img src="https://skillicons.dev/icons?i=py" height="20" />
 
-I'm a junior developer <b>excited by game development</b>, fascinated by AI & Data 🤖 and keen to explore software engineering 💻. 
+I'm a junior developer <b>excited by game development</b>, fascinated by AI & Data 🤖 and passionate about software engineering 💻. 
 
 As a <b>compliance, audit and documentation nerd</b> 🤓, I bring excellent attention to detail and organisational prowess to every project.
 
