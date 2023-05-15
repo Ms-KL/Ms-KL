@@ -1,4 +1,4 @@
-# Welcome to Kristy's GitHub!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=450&size=30&duration=4000&pause=2000&color=1549DC&width=435&lines=Welcome+to+Kristy's+GitHub)](https://git.io/typing-svg)
 
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ms-KL) -->
 
