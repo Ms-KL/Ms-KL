@@ -1,7 +1,18 @@
 # Welcome to Kristy's GitHub!
 
-✨ [Portfolio of Work](https://ms-kl.github.io/)<br><br>
-🚀 Currently Building: [Tetris](https://github.com/Ms-KL/tetris) with <img src="https://skillicons.dev/icons?i=py" height="20" />
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ms-KL) -->
+
+<!-- | 💻 Stack | <img src="https://skillicons.dev/icons?i=html,css,js,react,py,django" /> |
+| :-- | :---------------------- |
+| ✨ Projects | [My Portfolio](https://ms-kl.github.io/) |
+| 🚀 Building | [Tetris](https://github.com/Ms-KL/tetris) with <img src="https://skillicons.dev/icons?i=py" height="20" />  |
+| 🧠 Learning | "Being Agile" with [Udemy](https://www.udemy.com/share/10769E3@nMGKDQnmsActrYd3pCVHhxT7OP3xTI9PS1GuuZlvl1LFsk8nRKjaHC-mdwV2juvy/) |
+| 🔗 Connect | [Business Card](https://linktr.ee/kristyleigh) | -->
+
+<!-- <p>💻 Stack:	&nbsp; <img src="https://skillicons.dev/icons?i=html,css,js,react,py,django" height="20" /></p> -->
+✨ [Portfolio](https://ms-kl.github.io/) 🚀 [Current Projects](#-current-projects--challenges) 🧠 [Current Courses](#-currently-learning--enrolled-courses) 🔗 [Business Card](https://linktr.ee/kristyleigh)
+
+---
 
 I'm a junior developer <b>excited by game development</b>, fascinated by AI & Data 🤖 and passionate about software engineering 💻. 
 
@@ -15,33 +26,28 @@ I'm an experienced Trainer, Senior Administrator and Bookkeeper, and I have also
 
 Looking for a developer who's project-driven, <b>loves to learn</b> and gets excited by complex database schemas, but <b>oozes enthusiasm and passion</b>? Let's catch up over coffee ☕, whisky or a game of pinball, and see how my <b>unique skills will add value</b> to your team!
 
-🔗 [Business Card](https://linktr.ee/kristyleigh)
+
+<p>💻 Stack:	&nbsp; <img src="https://skillicons.dev/icons?i=html,css,js,react,py,django" height="25" /></p>
 
 <!-- **Skip to:** 🚀 [Projects & Challenges](#-projects--challenges)  -->
 <!-- ⚡ [Microsoft Certifications](#-microsoft-certifications) -->
-
 ---
-
-## 💻 Tech Stack:
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,py,django" />
-
----
-
-<img src="images/shecodes-icon.png" width="100px" height="100px" />
-
 <!-- ## 🧁 She Codes Plus Program:
 
 I am currently participating in the [She Codes Plus](https://shecodes.com.au/program/plus/) Program learning: `HTML`, `CSS`, `Python`, `Django`, `Django REST Framework`, `JavaScript` & `ReactJS` and will complete my training in April 2023. This program is a competitive, respected and influential bootcamp that prepares participants for a career in the tech industry.
 
 --- -->
+## 🚀 Current Projects & Challenges:
 
-## 🚀 Projects & Challenges:
+* [Tetris](https://github.com/Ms-KL/tetris) with <img src="https://skillicons.dev/icons?i=py" height="20" /> 
 
-### She Codes Plus Projects:
-✨ = porfolio has been redesigned. Please see my [current Portfolio.](https://ms-kl.github.io/)
 
-| -   | Tech                    | Live / Deployed                                                               | Code                                                                      |
+---
+
+##  <img src="images/shecodes-icon.png" width="25px" height="25px" />  She Codes Plus Projects:  
+✨ = porfolio was redesigned. Please see my [current / v2 Portfolio.](https://ms-kl.github.io/)
+
+|    | Tech                    | Live / Deployed                                                               | Code                                                                      |
 | :-- | :---------------------- | :---------------------------------------------------------------------------- | :------------------------------------------------------------------------ |
 | ✅  | `HTML` `CSS`            | [Portfolio Website v1 ✨](https://ms-kl.github.io/v1)                                 | [Repo](https://github.com/Ms-KL/Ms-KL.github.io/v1)                          |
 | ✅  | `Python`                | Weather Data Processing                                                       | [Repo](https://github.com/Ms-KL/she-codes-python-weather-project-Ms-KL)   |
@@ -52,9 +58,6 @@ I am currently participating in the [She Codes Plus](https://shecodes.com.au/pro
 | ✅  | `Python` `Django REST Framework` | [Mentor Scheduling Tool (back-end)](https://fully-committed-mentor-scheduling-tool.fly.dev/)                                         | [Repo](https://github.com/SheCodesAus/fully_committed_group_2023_backend)                                                                     |
 | ✅  | `HTML` `CSS` `React.JS` | [Mentor Scheduling Tool (front-end)](https://fullycommitted-mentor-scheduling-tool.netlify.app/)                                         | [Repo](https://github.com/SheCodesAus/fully_committed_group_2023_frontend)                                                                     |
 
-
-<br>
-
 <!-- ### Personal, Community & Open-Source Projects
 
 | -   | Tech                       | Live / Deployed                                                   | Code  |
@@ -63,11 +66,15 @@ I am currently participating in the [She Codes Plus](https://shecodes.com.au/pro
 | ⏳  | `DRF` `REACT.JS`           | "Sulphite Safe" App (personal)                                    | (tba) |
 | ⏳  | `Python`                   | `numpy-financial` test coverage + docs contribution (open-source) | (tba) | -->
 
-<br>
+
+---
+## 🧠 Currently Learning & Enrolled Courses: 	
+
+- "Being Agile" with [Udemy](https://www.udemy.com/share/10769E3@nMGKDQnmsActrYd3pCVHhxT7OP3xTI9PS1GuuZlvl1LFsk8nRKjaHC-mdwV2juvy/)
 
 ---
 
-## ⚡ Relative Education & Certifications:
+## ⚡ Complete Relative Education & Certifications:
 
 - ✅ She Codes Plus 22/23 (HTML, CSS, Javascript, ReactJS, Python, Django, DRF)
 - ✅ [Microsoft
@@ -79,12 +86,12 @@ I am currently participating in the [She Codes Plus](https://shecodes.com.au/pro
 
 <br>
 
-## 🤓 Self-Made Study Guides, Notes & Snippets:
+<!-- ## 🤓 Self-Made Study Guides, Notes & Snippets:
 
 - ✅ [Quickstart Snippets for starting, running & viewing WIP projects](https://gist.github.com/Ms-KL/7e5954905e26f5dfcc8fea99031a37a9)
 - ✅ [ReactJS: Fetch, Networking & Async Functions](https://gist.github.com/Ms-KL/d5fa3d72ee0f4ba0a28e8e5d93ba12d8)
 - ⏳ [ReactJS: URLs, Routes and React Router](https://gist.github.com/Ms-KL/a0d0c614aceed82e486b298a8fc8b373)
-
+ -->
 <br>
 
 <!-- https://dev.to/anuraghazra/dynamically-generated-github-stats-for-your-profile-readme-o4g -->
