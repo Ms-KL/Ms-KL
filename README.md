@@ -10,7 +10,7 @@
 | 🔗 Connect | [Business Card](https://linktr.ee/kristyleigh) | -->
 
 <!-- <p>💻 Stack:	&nbsp; <img src="https://skillicons.dev/icons?i=html,css,js,react,py,django" height="20" /></p> -->
-✨ [Portfolio](https://ms-kl.github.io/) 🚀 [Current Projects](#-current-projects--challenges) 🧠 [Current Courses](#-currently-learning--enrolled-courses) 🔗 [Business Card](https://linktr.ee/kristyleigh)
+✨ [Portfolio](https://ms-kl.github.io/) 🚀 [Current Projects](#-current-wip-projects--challenges) 🧠 [Current Courses](#-currently-learning--enrolled-courses) 🔗 [Business Card](https://linktr.ee/kristyleigh)
 
 ---
 
@@ -37,10 +37,12 @@ Looking for a developer who's project-driven, <b>loves to learn</b> and gets exc
 I am currently participating in the [She Codes Plus](https://shecodes.com.au/program/plus/) Program learning: `HTML`, `CSS`, `Python`, `Django`, `Django REST Framework`, `JavaScript` & `ReactJS` and will complete my training in April 2023. This program is a competitive, respected and influential bootcamp that prepares participants for a career in the tech industry.
 
 --- -->
-## 🚀 Current Projects & Challenges:
+## 🚀 Current WIP, Projects & Challenges:
 
-* [Tetris](https://github.com/Ms-KL/tetris) with <img src="https://skillicons.dev/icons?i=py" height="20" /> 
-
+<!-- * [Tetris](https://github.com/Ms-KL/tetris) with <img src="https://skillicons.dev/icons?i=py" height="20" />  -->
+[![Tetris](https://github-readme-stats.vercel.app/api/pin/?username=Ms-KL&repo=tetris)](https://github.com/Ms-KL/tetris)
+<!-- * [Python Mentor Prep: She Codes One Day Workshop 17 June 2023](https://github.com/Ms-KL/python-shecodes-workshop-mentor-prep) with <img src="https://skillicons.dev/icons?i=py" height="20" />  -->
+[![Python Mentor Prep: She Codes One Day Workshop 17 June 2023](https://github-readme-stats.vercel.app/api/pin/?username=Ms-KL&repo=python-shecodes-workshop-mentor-prep)](https://github.com/Ms-KL/python-shecodes-workshop-mentor-prep)
 
 ---
 
