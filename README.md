@@ -1,7 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=450&size=30&duration=4000&pause=2000&color=1549DC&width=435&lines=Welcome+to+Kristy's+GitHub)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Calibri&weight=400&size=40&duration=4000&pause=2000&color=1549DC&width=600&lines=Kristy+Leigh:+Emerging+Developer)](https://git.io/typing-svg)
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ms-KL) -->
-
+---
 <!-- | 💻 Stack | <img src="https://skillicons.dev/icons?i=html,css,js,react,py,django" /> |
 | :-- | :---------------------- |
 | ✨ Projects | [My Portfolio](https://ms-kl.github.io/) |
@@ -10,6 +9,7 @@
 | 🔗 Connect | [Business Card](https://linktr.ee/kristyleigh) | -->
 
 <!-- <p>💻 Stack:	&nbsp; <img src="https://skillicons.dev/icons?i=html,css,js,react,py,django" height="20" /></p> -->
+<!--  ![](https://komarev.com/ghpvc/?username=ms-kl&label=Visitors&color=ff69b4&style=plastic)  -->
 ✨ [Portfolio](https://ms-kl.github.io/) 🚀 [Current Projects](#-current-wip-projects--challenges) 🧠 [Current Courses](#-currently-learning--enrolled-courses) 🔗 [Business Card](https://linktr.ee/kristyleigh)
 
 ---
