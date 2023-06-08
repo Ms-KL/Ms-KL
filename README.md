@@ -73,6 +73,7 @@ I am currently participating in the [She Codes Plus](https://shecodes.com.au/pro
 ## 🧠 Currently Learning & Enrolled Courses: 	
 
 - "Being Agile" with [Udemy](https://www.udemy.com/share/10769E3@nMGKDQnmsActrYd3pCVHhxT7OP3xTI9PS1GuuZlvl1LFsk8nRKjaHC-mdwV2juvy/)
+- "AWS Cloud Quest"
 
 ---
 
