@@ -31,7 +31,6 @@ Looking for a developer who's project-driven, <b>loves to learn</b> and gets exc
 
 <!-- **Skip to:** 🚀 [Projects & Challenges](#-projects--challenges)  -->
 <!-- ⚡ [Microsoft Certifications](#-microsoft-certifications) -->
----
 <!-- ## 🧁 She Codes Plus Program:
 
 I am currently participating in the [She Codes Plus](https://shecodes.com.au/program/plus/) Program learning: `HTML`, `CSS`, `Python`, `Django`, `Django REST Framework`, `JavaScript` & `ReactJS` and will complete my training in April 2023. This program is a competitive, respected and influential bootcamp that prepares participants for a career in the tech industry.
