@@ -38,7 +38,6 @@ I am currently participating in the [She Codes Plus](https://shecodes.com.au/pro
 
 --- -->
 ## 🚀 Current WIP, Projects & Challenges:
-[![Streamlit Playground](https://github-readme-stats.vercel.app/api/pin/?username=Ms-KL&repo=streamlit-playground)](https://github.com/Ms-KL/streamlit-playground)
 <!-- * [Tetris](https://github.com/Ms-KL/tetris) with <img src="https://skillicons.dev/icons?i=py" height="20" />  -->
 [![Tetris](https://github-readme-stats.vercel.app/api/pin/?username=Ms-KL&repo=tetris)](https://github.com/Ms-KL/tetris)
 <!-- * [Python Mentor Prep: She Codes One Day Workshop 17 June 2023](https://github.com/Ms-KL/python-shecodes-workshop-mentor-prep) with <img src="https://skillicons.dev/icons?i=py" height="20" />  -->
