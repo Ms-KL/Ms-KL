@@ -35,10 +35,17 @@ Looking for a developer who's project-driven, <b>loves to learn</b> and gets exc
 <!-- ## 🧁 She Codes Plus Program:
 
 I am currently participating in the [She Codes Plus](https://shecodes.com.au/program/plus/) Program learning: `HTML`, `CSS`, `Python`, `Django`, `Django REST Framework`, `JavaScript` & `ReactJS` and will complete my training in April 2023. This program is a competitive, respected and influential bootcamp that prepares participants for a career in the tech industry.
-
 --- -->
+---
+## 🧠 Currently Learning: 	
+
+- AWS Cloud with ["AWS Cloud Quest"](https://cloudquest.skillbuilder.aws/?refresh=true)
+- Streamlit (see my [Streamlit Playground](https://github.com/Ms-KL/streamlit-playground))
+- Agile via "Being Agile" course with [Udemy](https://www.udemy.com/share/10769E3@nMGKDQnmsActrYd3pCVHhxT7OP3xTI9PS1GuuZlvl1LFsk8nRKjaHC-mdwV2juvy/)
+
+---
+
 ## 🚀 Current WIP, Projects & Challenges:
-[![Streamlit Playground](https://github-readme-stats.vercel.app/api/pin/?username=Ms-KL&repo=streamlit-playground)](https://github.com/Ms-KL/streamlit-playground)
 <!-- * [Tetris](https://github.com/Ms-KL/tetris) with <img src="https://skillicons.dev/icons?i=py" height="20" />  -->
 [![Tetris](https://github-readme-stats.vercel.app/api/pin/?username=Ms-KL&repo=tetris)](https://github.com/Ms-KL/tetris)
 <!-- * [Python Mentor Prep: She Codes One Day Workshop 17 June 2023](https://github.com/Ms-KL/python-shecodes-workshop-mentor-prep) with <img src="https://skillicons.dev/icons?i=py" height="20" />  -->
@@ -67,14 +74,6 @@ I am currently participating in the [She Codes Plus](https://shecodes.com.au/pro
 | ⏳  | `Azure Cognitive Services` | "About Kristy" Chatbot (personal)                                 | (tba) |
 | ⏳  | `DRF` `REACT.JS`           | "Sulphite Safe" App (personal)                                    | (tba) |
 | ⏳  | `Python`                   | `numpy-financial` test coverage + docs contribution (open-source) | (tba) | -->
-
-
----
-## 🧠 Currently Learning: 	
-
-- Streamlit using [Streamlit.io documentation](https://docs.streamlit.io/library/get-started/create-an-app)
-- "Being Agile" with [Udemy](https://www.udemy.com/share/10769E3@nMGKDQnmsActrYd3pCVHhxT7OP3xTI9PS1GuuZlvl1LFsk8nRKjaHC-mdwV2juvy/)
-- "AWS Cloud Quest"
 
 ---
 
