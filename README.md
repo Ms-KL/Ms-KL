@@ -10,7 +10,7 @@
 
 <!-- <p>💻 Stack:	&nbsp; <img src="https://skillicons.dev/icons?i=html,css,js,react,py,django" height="20" /></p> -->
 <!--  ![](https://komarev.com/ghpvc/?username=ms-kl&label=Visitors&color=ff69b4&style=plastic)  -->
-✨ [Portfolio](https://ms-kl.github.io/) 🚀 [Current Projects](#-current-wip-projects--challenges) 🧠 [Current Courses](#-currently-learning--enrolled-courses) 🔗 [Business Card](https://linktr.ee/kristyleigh)
+✨ [Portfolio](https://ms-kl.github.io/) 🧠 [Currently Learning](#-currently-learning--enrolled-courses) 🚀 [Current Projects](#-current-wip-projects--challenges) 🔗 [Business Card](https://linktr.ee/kristyleigh)
 
 ---
 
