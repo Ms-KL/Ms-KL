@@ -12,7 +12,7 @@
 <!-- <p>💻 Stack:	&nbsp; <img src="https://skillicons.dev/icons?i=html,css,js,react,py,django" height="20" /></p> -->
 <!--  ![](https://komarev.com/ghpvc/?username=ms-kl&label=Visitors&color=ff69b4&style=plastic)  -->
 
-✨ [Portfolio](https://ms-kl.github.io/) 🧠 [Currently Self-Learning](#-currently-self-learning) 🚀 [Current Projects](#-current-wip-projects-challenges--playgrounds) 📈 [Stats](#-stats) ⚡ [My Tech Learning Journey](#-career-transition--my-tech-learning-journey) 🔗 [Business Card](https://linktr.ee/kristyleigh)
+✨ [Portfolio](https://ms-kl.github.io/) 🧠 [Currently Self-Learning](#-currently-self-learning) 🚀 [Current Projects](#-current-wip-projects-challenges--playgrounds) 📈 [Stats](#-stats) ⚡ [Learning Journey](#-career-transition-my-tech-learning-journey) 🔗 [Business Card](https://linktr.ee/kristyleigh)
 
 ---
 
@@ -38,8 +38,6 @@ I am currently participating in the [She Codes Plus](https://shecodes.com.au/pro
 
 ---
 
----
-
 ## 🧠 Currently Self-Learning:
 
 - Streamlit: ["Create an app" (Streamlit Docs)](https://docs.streamlit.io/library/get-started/create-an-app) | My [Playground Repo](https://github.com/Ms-KL/streamlit-playground)
@@ -47,8 +45,6 @@ I am currently participating in the [She Codes Plus](https://shecodes.com.au/pro
 - Agile: ["Being Agile" (Udemy)](https://www.udemy.com/share/10769E3@nMGKDQnmsActrYd3pCVHhxT7OP3xTI9PS1GuuZlvl1LFsk8nRKjaHC-mdwV2juvy/)
 
 <br>
-
----
 
 ---
 
@@ -113,8 +109,6 @@ I am currently participating in the [She Codes Plus](https://shecodes.com.au/pro
 
 ---
 
----
-
 ## 📈 Stats:
 
 <br>
@@ -134,8 +128,6 @@ I am currently participating in the [She Codes Plus](https://shecodes.com.au/pro
   To provide a more accurate representation of my top languages, I have removed all Jupyter Notebooks from the statistics. As a result, the Python stats will appear lower than expected.
 
 <br>
-
----
 
 ---
 
