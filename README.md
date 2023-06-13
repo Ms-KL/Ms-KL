@@ -43,6 +43,8 @@ I am currently participating in the [She Codes Plus](https://shecodes.com.au/pro
 - AWS Cloud: ["AWS Cloud Quest" (AWS)](https://cloudquest.skillbuilder.aws/?refresh=true)
 - Agile: ["Being Agile" (Udemy)](https://www.udemy.com/share/10769E3@nMGKDQnmsActrYd3pCVHhxT7OP3xTI9PS1GuuZlvl1LFsk8nRKjaHC-mdwV2juvy/)
 
+Note: Please refer to ⚡ [Learning Journey](#-career-transition-my-tech-learning-journey) for comprehensive list of courses, events, workshops, meetups, conferences, boot-camps and tertiary education completed.
+
 ---
 
 ## 🚀 Current WIP, Projects, Challenges & Playgrounds:
