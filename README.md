@@ -27,7 +27,6 @@ I'm an experienced Trainer, Senior Administrator and Bookkeeper, and I have also
 Looking for a developer who's project-driven, <b>loves to learn</b> and gets excited by complex database schemas, but <b>oozes enthusiasm and passion</b>? Let's catch up over coffee ☕, whisky or a game of pinball, and see how my <b>unique skills will add value</b> to your team!
 
 <p>💻 Stack:	&nbsp; <img src="https://skillicons.dev/icons?i=html,css,js,react,py,django" height="25" /></p>
-<br>
 
 <!-- **Skip to:** 🚀 [Projects & Challenges](#-projects--challenges)  -->
 <!-- ⚡ [Microsoft Certifications](#-microsoft-certifications) -->
@@ -44,8 +43,6 @@ I am currently participating in the [She Codes Plus](https://shecodes.com.au/pro
 - AWS Cloud: ["AWS Cloud Quest" (AWS)](https://cloudquest.skillbuilder.aws/?refresh=true)
 - Agile: ["Being Agile" (Udemy)](https://www.udemy.com/share/10769E3@nMGKDQnmsActrYd3pCVHhxT7OP3xTI9PS1GuuZlvl1LFsk8nRKjaHC-mdwV2juvy/)
 
-<br>
-
 ---
 
 ## 🚀 Current WIP, Projects, Challenges & Playgrounds:
@@ -61,7 +58,6 @@ I am currently participating in the [She Codes Plus](https://shecodes.com.au/pro
 [![Python Mentor Prep: She Codes One Day Workshop 17 June 2023](https://github-readme-stats.vercel.app/api/pin/?username=Ms-KL&repo=python-shecodes-workshop-mentor-prep)](https://github.com/Ms-KL/python-shecodes-workshop-mentor-prep)
 
 <br>
-<br>
 
 ## <img src="images/uwa-logo.png" width="30px" height="30px" /> UWA (Post) Graduate Certificate of Commerce Projects:
 
@@ -70,7 +66,6 @@ I am currently participating in the [She Codes Plus](https://shecodes.com.au/pro
 | ✅'21 | `Python` | Aviation Analysis System <br>(`Jupyter Notebook` and `business report` with `data visualisations`)                                  | [Repo](https://github.com/Ms-KL/uwa-python-project) | Python Programming for Business (complete 2021)   |
 | ✅'21 | `Excel`  | Investing in our leaders<br> (`statistical analysis` and `prediction` using excel and `business report` with `data visualisations`) | Coming Soon                                         | Data Analysis and Decision Making (complete 2021) |
 
-<br>
 <br>
 
 ## <img src="images/shecodes-icon.png" width="25px" height="25px" /> She Codes Plus Projects:
@@ -95,8 +90,6 @@ I am currently participating in the [She Codes Plus](https://shecodes.com.au/pro
 | ⏳  | `Azure Cognitive Services` | "About Kristy" Chatbot (personal)                                 | (tba) |
 | ⏳  | `DRF` `REACT.JS`           | "Sulphite Safe" App (personal)                                    | (tba) |
 | ⏳  | `Python`                   | `numpy-financial` test coverage + docs contribution (open-source) | (tba) | -->
-
-<br>
 
 <!-- ## 🤓 Self-Made Study Guides, Notes & Snippets:
 
