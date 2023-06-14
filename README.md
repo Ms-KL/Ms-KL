@@ -36,7 +36,15 @@
 
 - I'm an _[experienced Trainer, Senior Administrator and Bookkeeper,](https://www.linkedin.com/in/kristyleighgray/)_ and I have also dabbled in retail management, professional cooking 👩‍🍳, and <b>voice-over acting</b> careers. You can often find me immersed in D&D 🧙, swing dancing, or playing pinball.
 
-Looking for a developer who's project-driven, _[loves to learn](#-current-learning--scheduled-events)_ and gets excited by complex database schemas, but <b>oozes enthusiasm and passion</b>? Let's catch up over coffee ☕, whisky or a game of pinball, and see how my <b>unique skills will add value</b> to your team! 🔗[Business Card / LinkTree](https://linktr.ee/kristyleigh)
+<br>
+
+### 🔗 [Get in Touch](https://linktr.ee/kristyleigh)
+
+Looking for a developer who's project-driven, _[loves to learn](#-current-learning--scheduled-events)_ and gets excited by complex database schemas, but <b>oozes enthusiasm and passion</b>? Let's catch up over coffee ☕, whisky or a game of pinball, and see how my <b>unique skills will add value</b> to your team!
+
+<br>
+
+↑ [Back to Top](#-skip-to)
 
 ---
 
@@ -49,6 +57,10 @@ Looking for a developer who's project-driven, _[loves to learn](#-current-learni
 
 - 🎓 _Upskilling & Networking in Tech:_<br>
   As part of this learning journey, I am enjoying [participating](#-current-learning--scheduled-events) in relevant courses, developing / contributing to projects and [attending](#-education-training-event--networking-history) workshops and networking events to gain practical knowledge and experience.
+
+<br>
+
+↑ [Back to Top](#-skip-to)
 
 ---
 
@@ -67,6 +79,10 @@ Looking for a developer who's project-driven, _[loves to learn](#-current-learni
 - `17/06/23` She Codes One Day Workshop - ✨ Python volunteer mentor
 - `02/08/23 - 03/08/23` Data & AI for Business Conference - ⏳ obtain ticket
 - `07/10/23` DDD Conference - ✅ ticket obtained
+
+<br>
+
+↑ [Back to Top](#-skip-to)
 
 ---
 
@@ -103,6 +119,10 @@ Looking for a developer who's project-driven, _[loves to learn](#-current-learni
 | ✅'23 | `React.JS`                       | To-Do list app                                                                                   | [Repo](https://github.com/Ms-KL/todo-list)                                 |
 | ✅'23 | `Python` `Django REST Framework` | [Mentor Scheduling Tool (back-end)](https://fully-committed-mentor-scheduling-tool.fly.dev/)     | [Repo](https://github.com/SheCodesAus/fully_committed_group_2023_backend)  |
 | ✅'23 | `HTML` `CSS` `React.JS`          | [Mentor Scheduling Tool (front-end)](https://fullycommitted-mentor-scheduling-tool.netlify.app/) | [Repo](https://github.com/SheCodesAus/fully_committed_group_2023_frontend) |
+
+<br>
+
+↑ [Back to Top](#-skip-to)
 
 ---
 
@@ -153,6 +173,12 @@ Looking for a developer who's project-driven, _[loves to learn](#-current-learni
   - `05/12/22` Cybotics AI Day @ West Tech Fest 2022
   - `21/11/22` She Codes x Robert Walters Networking Event
   - `18/11/22` WITWA Tech[+] Awards Night
+
+<br>
+
+↑ [Back to Top](#-skip-to)
+
+---
 
 <!-- Planned additions -->
 
