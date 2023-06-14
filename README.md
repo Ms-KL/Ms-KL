@@ -10,7 +10,7 @@
   <li style="list-style-type: none;">⭐ <a href="#-about-me">About Me</a></li>
   <li style="list-style-type: none;">⚡ <a href="#-career-transition-my-tech-learning-journey">Career Transition: My Tech Learning Journey </a></li>
   <li style="list-style-type: none;">🧠 <a href="#-current-learning--scheduled-events">Current Learning & Scheduled Events</a></li>
-  <li style="list-style-type: none;">🎓 <a href="#-education-training-event--networking-history"> Training & Event History </a></li>
+  <li style="list-style-type: none;">🎓 <a href="#-education-training-event--networking-history"> Education, Training, Event & Networking History </a></li>
 
   <br>
   <li style="list-style-type: none;">🚀 <a href="#-current-wip-projects-challenges--playgrounds">Projects: WIP / Current </a></li>
@@ -66,7 +66,7 @@ Looking for a developer who's project-driven, _[loves to learn](#-current-learni
 
 ## 🧠 Current Learning & Scheduled Events:
 
-🎓 See my [Training & Event History](#-career-transition-my-tech-learning-journey)
+🎓 See my [Training & Event History](#-education-training-event--networking-history)
 
 ### _Current Learning_:
 
