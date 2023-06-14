@@ -1,7 +1,5 @@
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Calibri&weight=400&size=40&duration=4000&pause=2000&color=1549DC&width=600&lines=Kristy+Leigh:+Emerging+Developer)](https://git.io/typing-svg) -->
 
-\*\*
-
 # **Kristy Leigh:** <br>Junior Developer & aspiring Data Scientist
 
 <p><img src="https://skillicons.dev/icons?i=html,css,js,react,py,django" height="25" /></p>
