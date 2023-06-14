@@ -10,13 +10,15 @@
   <li style="list-style-type: none;">⭐ <a href="#-about-me">About Me</a></li>
   <li style="list-style-type: none;">⚡ <a href="#-career-transition-my-tech-learning-journey">Career Transition: My Tech Learning Journey </a></li>
   <li style="list-style-type: none;">🧠 <a href="#-currently-self-learning">Currently Self-Learning </a></li>
+  <li style="list-style-type: none;">🎓 <a href="https://ms-kl.github.io/"> Training & Event History </a></li>
 
-  <li style="list-style-type: none;">&#160;</li>
+  <br>
   <li style="list-style-type: none;">🚀 <a href="#-current-wip-projects-challenges--playgrounds">Projects: WIP / Current </a></li>
   <li style="list-style-type: none;">  <img src="images/uwa-logo.png" width="15px" height="15px" /> <a href="#-uwa-post-graduate-certificate-of-commerce-projects">&#160;Projects: UWA GradCertComm </a></li>
   <li style="list-style-type: none;">  <img src="images/shecodes-icon.png" width="15px" height="15px" /> <a href="#-she-codes-plus-projects">&#160;Projects: She Codes Plus </a></li>
 
-  <li style="list-style-type: none;">&#160;</li>
+  <br>
+
   <li style="list-style-type: none;">✨ <a href="https://ms-kl.github.io/"> Developer Portfolio </a></li>
   <li style="list-style-type: none;">🔗 <a href="https://linktr.ee/kristyleigh"> Business Card / LinkTree </a></li>
   <!-- <li style="list-style-type: none;">📈 <a href="#-stats">GitHub Stats </a></li> -->
