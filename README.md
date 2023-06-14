@@ -56,7 +56,8 @@ Looking for a developer who's project-driven, _[loves to learn](#-currently-self
 - Streamlit: ["Create an app" (Streamlit Docs)](https://docs.streamlit.io/library/get-started/create-an-app) | My [Playground Repo](https://github.com/Ms-KL/streamlit-playground)
 - AWS Cloud: ["AWS Cloud Quest" (AWS)](https://cloudquest.skillbuilder.aws/?refresh=true)
 - Agile: ["Being Agile" (Udemy)](https://www.udemy.com/share/10769E3@nMGKDQnmsActrYd3pCVHhxT7OP3xTI9PS1GuuZlvl1LFsk8nRKjaHC-mdwV2juvy/)
-- ✅ [List of Completed](#-career-transition-my-tech-learning-journey) courses, events, workshops, meetups, conferences, boot-camps and tertiary education.
+
+🎓 See my [Training & Event History](#-career-transition-my-tech-learning-journey)
 
 ---
 
