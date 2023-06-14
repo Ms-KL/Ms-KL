@@ -40,7 +40,7 @@
 
 ### 🔗 [Get in Touch](https://linktr.ee/kristyleigh)
 
-Looking for a developer who's project-driven, _[loves to learn](#-current-learning--scheduled-events)_ and gets excited by complex database schemas, but <b>oozes enthusiasm and passion</b>? Let's catch up over coffee ☕, whisky or a game of pinball, and see how my <b>unique skills will add value</b> to your team!
+Looking for a developer who's project-driven, _[loves to learn](#-current-learning--scheduled-events)_ and gets excited by complex database schemas & AI, but <b>oozes enthusiasm and passion</b>? Let's catch up over coffee ☕, whisky or a game of pinball, and see how my <b>unique skills will add value</b> to your team!
 
 <br>
 
@@ -128,7 +128,9 @@ Looking for a developer who's project-driven, _[loves to learn](#-current-learni
 
 ## 🎓 Education, Training, Event & Networking History:
 
-### Relative Education & Certifications:
+🧠 See my [Current Learning & Scheduled Events](##-current-learning--scheduled-events)
+
+### _Relative Education & Certifications_:
 
 - `04/23` She Codes Plus Program 22/23 (HTML, CSS, Javascript, ReactJS, Python, Django, DRF)
 - `03/23` [Analytics for All Upskilling - Tracked X WADSIH](https://github.com/Ms-KL/Ms-KL/files/11217428/Graduation_Certificate.-.Kristy_Gray_129330.pdf)
@@ -140,7 +142,7 @@ Looking for a developer who's project-driven, _[loves to learn](#-current-learni
   - `2020` [Introductory Financial Accounting](https://handbooks.uwa.edu.au/unitdetails?code=ACCT5432)
   - `2020` [Economics for Business and Policy](https://handbooks.uwa.edu.au/unitdetails?code=ECON5541)
 
-### Training & Workshops Attended:
+### _Training & Workshops Attended_:
 
 - 2023:
   - `18/05/23` Microsoft Level Up with GitHub Copilot & Codespaces
@@ -155,7 +157,7 @@ Looking for a developer who's project-driven, _[loves to learn](#-current-learni
   - `05/09/22` Mentoring Event "On the Shoulders of Giants", Microsoft Student Accelerator
   - `25/08/22` Data Science Fundamentals, WADSIH x Insight
 
-### Networking, Conferences & Events Attended:
+### _Networking, Conferences & Events Attended_:
 
 - Monthly:
   - Python WA Meetup
