@@ -10,7 +10,7 @@
   <li style="list-style-type: none;">⭐ <a href="#-about-me">About Me</a></li>
   <li style="list-style-type: none;">⚡ <a href="#-career-transition-my-tech-learning-journey">Career Transition: My Tech Learning Journey </a></li>
   <li style="list-style-type: none;">🧠 <a href="#-current-learning--scheduled-events">Current Learning & Scheduled Events</a></li>
-  <li style="list-style-type: none;">🎓 <a href="#-education-training-event--networking-history"> Training & Event History </a></li>
+  <li style="list-style-type: none;">🎓 <a href="#-education-training-event--networking-history"> Education, Training, Event & Networking History </a></li>
 
   <br>
   <li style="list-style-type: none;">🚀 <a href="#-current-wip-projects-challenges--playgrounds">Projects: WIP / Current </a></li>
@@ -40,7 +40,7 @@
 
 ### 🔗 [Get in Touch](https://linktr.ee/kristyleigh)
 
-Looking for a developer who's project-driven, _[loves to learn](#-current-learning--scheduled-events)_ and gets excited by complex database schemas & AI, but <b>oozes enthusiasm and passion</b>? Let's catch up over coffee ☕, whisky or a game of pinball, and see how my <b>unique skills will add value</b> to your team!
+Looking for Junior Developer or aspiring Data Scientist who's project-driven, _[loves to learn](#-current-learning--scheduled-events)_, gets excited by complex database schemas & AI, and <b>oozes enthusiasm and passion</b>? Let's catch up over coffee ☕, whisky or a game of pinball, and see how my <b>unique skills will add value</b> to your team!
 
 <br>
 
@@ -66,7 +66,7 @@ Looking for a developer who's project-driven, _[loves to learn](#-current-learni
 
 ## 🧠 Current Learning & Scheduled Events:
 
-🎓 See my [Training & Event History](#-career-transition-my-tech-learning-journey)
+🎓 See my [Training & Event History](#-education-training-event--networking-history)
 
 ### _Current Learning_:
 
@@ -128,7 +128,7 @@ Looking for a developer who's project-driven, _[loves to learn](#-current-learni
 
 ## 🎓 Education, Training, Event & Networking History:
 
-🧠 See my [Current Learning & Scheduled Events](##-current-learning--scheduled-events)
+🧠 See my [Current Learning & Scheduled Events](#-current-learning--scheduled-events)
 
 ### _Relative Education & Certifications_:
 
