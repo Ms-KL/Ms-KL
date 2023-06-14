@@ -40,7 +40,7 @@
 
 ### 🔗 [Get in Touch](https://linktr.ee/kristyleigh)
 
-Looking for a developer who's project-driven, _[loves to learn](#-current-learning--scheduled-events)_ and gets excited by complex database schemas & AI, but <b>oozes enthusiasm and passion</b>? Let's catch up over coffee ☕, whisky or a game of pinball, and see how my <b>unique skills will add value</b> to your team!
+Looking for junior developer or aspiring Data Scientist who's project-driven, _[loves to learn](#-current-learning--scheduled-events)_, gets excited by complex database schemas & AI, and <b>oozes enthusiasm and passion</b>? Let's catch up over coffee ☕, whisky or a game of pinball, and see how my <b>unique skills will add value</b> to your team!
 
 <br>
 
