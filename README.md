@@ -9,8 +9,8 @@
 <ul>
   <li style="list-style-type: none;">⭐ <a href="#-about-me">About Me</a></li>
   <li style="list-style-type: none;">⚡ <a href="#-career-transition-my-tech-learning-journey">Career Transition: My Tech Learning Journey </a></li>
-  <li style="list-style-type: none;">🧠 <a href="#-currently-self-learning">Currently Self-Learning </a></li>
-  <li style="list-style-type: none;">🎓 <a href="https://ms-kl.github.io/"> Training & Event History </a></li>
+  <li style="list-style-type: none;">🧠 <a href="#-current-learning--scheduled-events">Current Learning & Scheduled Events</a></li>
+  <li style="list-style-type: none;">🎓 <a href="#-education-training-event--networking-history"> Training & Event History </a></li>
 
   <br>
   <li style="list-style-type: none;">🚀 <a href="#-current-wip-projects-challenges--playgrounds">Projects: WIP / Current </a></li>
@@ -28,14 +28,15 @@
 
 ## ⭐ About Me:
 
-- I'm a junior developer <b>fascinated</b> by AI & Data Science 🤖, <b>excited</b> by game development and <b>passionate</b> about software engineering 💻.
+- I'm a junior developer <b>inspired</b> by AI & Data Science 🤖, <b>excited</b> about game development and <b>fascinated</b> by software engineering 💻.
+
 - As a <b>compliance, audit and documentation nerd</b> 🤓, I bring excellent attention to detail and organisational prowess to every project.
 
 - I'm <b>adaptable, curious, and eager</b> to dive into new technologies, and _[I love attending industry events, workshops and training sessions](#-education-training-event--networking-history)_ to stay up-to-date.
 
 - I'm an _[experienced Trainer, Senior Administrator and Bookkeeper,](https://www.linkedin.com/in/kristyleighgray/)_ and I have also dabbled in retail management, professional cooking 👩‍🍳, and <b>voice-over acting</b> careers. You can often find me immersed in D&D 🧙, swing dancing, or playing pinball.
 
-Looking for a developer who's project-driven, _[loves to learn](#-currently-self-learning)_ and gets excited by complex database schemas, but <b>oozes enthusiasm and passion</b>? Let's catch up over coffee ☕, whisky or a game of pinball, and see how my <b>unique skills will add value</b> to your team! 🔗[Business Card / LinkTree](https://linktr.ee/kristyleigh)
+Looking for a developer who's project-driven, _[loves to learn](#-current-learning--scheduled-events)_ and gets excited by complex database schemas, but <b>oozes enthusiasm and passion</b>? Let's catch up over coffee ☕, whisky or a game of pinball, and see how my <b>unique skills will add value</b> to your team! 🔗[Business Card / LinkTree](https://linktr.ee/kristyleigh)
 
 ---
 
@@ -44,20 +45,28 @@ Looking for a developer who's project-driven, _[loves to learn](#-currently-self
 - 🎯 _Career Transition Goal:_ <br>To gain a role in Data Science and/or (Software or Game) Development in 2023.
 
 - 📜 _Career Background:_<br>
-  After over 15 years of experience as a Senior Administrator, Trainer, and Bookkeeper, I commenced a career break in July 2022 to focus on transitioning into the tech industry. Currently, I am participating in relevant courses, self-learning, and community projects, and attending workshops and networking events to gain practical knowledge and experience.
+  After over 15 years of experience as a Senior Administrator, Trainer, and Bookkeeper, I commenced a career break in July 2022 to focus on transitioning into the tech industry.
 
 - 🎓 _Upskilling & Networking in Tech:_<br>
-  [Explore the list](#-education-training-event--networking-history) of exciting networking, events, conferences, training, workshops and courses I have attended since my transition into tech.
+  As part of this learning journey, I am enjoying [participating](#-current-learning--scheduled-events) in relevant courses, developing / contributing to projects and [attending](#-education-training-event--networking-history) workshops and networking events to gain practical knowledge and experience.
 
 ---
 
-## 🧠 Currently Self-Learning:
+## 🧠 Current Learning & Scheduled Events:
+
+🎓 See my [Training & Event History](#-career-transition-my-tech-learning-journey)
+
+### _Current Learning_:
 
 - Streamlit: ["Create an app" (Streamlit Docs)](https://docs.streamlit.io/library/get-started/create-an-app) | My [Playground Repo](https://github.com/Ms-KL/streamlit-playground)
 - AWS Cloud: ["AWS Cloud Quest" (AWS)](https://cloudquest.skillbuilder.aws/?refresh=true)
 - Agile: ["Being Agile" (Udemy)](https://www.udemy.com/share/10769E3@nMGKDQnmsActrYd3pCVHhxT7OP3xTI9PS1GuuZlvl1LFsk8nRKjaHC-mdwV2juvy/)
 
-🎓 See my [Training & Event History](#-career-transition-my-tech-learning-journey)
+### _Scheduled Events_:
+
+- `17/06/23` She Codes One Day Workshop - ✨ Python volunteer mentor
+- `02/08/23 - 03/08/23` Data & AI for Business Conference - ⏳ obtain ticket
+- `07/10/23` DDD Conference - ✅ ticket obtained
 
 ---
 
@@ -97,28 +106,6 @@ Looking for a developer who's project-driven, _[loves to learn](#-currently-self
 
 ---
 
-<!-- ## 📈 Stats:
-
-<br>
-
-![Ms-KL's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ms-KL)
-
-<br>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ms-KL)
-
-### **_Most Used Languages Disclaimer:_**
-
-- **Incorrect weighting of Jupyter Notebooks in stats:** <br>
-  The GitHub statistics above may be skewed due to the removal of Jupyter Notebooks. These notebooks are counted as .ipynb files, which can result in an incorrect weighting towards this file type and no contributions to Python.
-
-- **Removal of Jupyter Notebooks in stats = Lower Python Stats:**<br>
-  To provide a more accurate representation of my top languages, I have removed all Jupyter Notebooks from the statistics. As a result, the Python stats will appear lower than expected.
-
-<br>
-
---- -->
-
 ## 🎓 Education, Training, Event & Networking History:
 
 ### Relative Education & Certifications:
@@ -132,12 +119,6 @@ Looking for a developer who's project-driven, _[loves to learn](#-currently-self
   - `2021` [Python Programming for Business](https://handbooks.uwa.edu.au/unitdetails?code=BUSN5101)
   - `2020` [Introductory Financial Accounting](https://handbooks.uwa.edu.au/unitdetails?code=ACCT5432)
   - `2020` [Economics for Business and Policy](https://handbooks.uwa.edu.au/unitdetails?code=ECON5541)
-
-### Scheduled Events to Attend:
-
-- `17/06/23` She Codes One Day Workshop - ✨ Python volunteer mentor
-- `02/08/23 - 03/08/23` Data & AI for Business Conference - ⏳ obtain ticket
-- `07/10/23` DDD Conference - ✅ ticket obtained
 
 ### Training & Workshops Attended:
 
@@ -172,3 +153,27 @@ Looking for a developer who's project-driven, _[loves to learn](#-currently-self
   - `05/12/22` Cybotics AI Day @ West Tech Fest 2022
   - `21/11/22` She Codes x Robert Walters Networking Event
   - `18/11/22` WITWA Tech[+] Awards Night
+
+<!-- Planned additions -->
+
+<!-- ## 📈 Stats:
+
+<br>
+
+![Ms-KL's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ms-KL)
+
+<br>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ms-KL)
+
+### **_Most Used Languages Disclaimer:_**
+
+- **Incorrect weighting of Jupyter Notebooks in stats:** <br>
+  The GitHub statistics above may be skewed due to the removal of Jupyter Notebooks. These notebooks are counted as .ipynb files, which can result in an incorrect weighting towards this file type and no contributions to Python.
+
+- **Removal of Jupyter Notebooks in stats = Lower Python Stats:**<br>
+  To provide a more accurate representation of my top languages, I have removed all Jupyter Notebooks from the statistics. As a result, the Python stats will appear lower than expected.
+
+<br>
+
+--- -->
