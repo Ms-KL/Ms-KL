@@ -8,7 +8,7 @@
 
 <ul>
   <li style="list-style-type: none;">⭐ <a href="#-about-me">About Me</a></li>
-  <li style="list-style-type: none;">⚡ <a href="#-career-transition-my-tech-learning-journey">Career Transition: My Tech Learning Journey </a></li>
+  <li style="list-style-type: none;">⚡ <a href="#-career-transition-my-tech-journey">Career Transition: My Tech Journey </a></li>
   <li style="list-style-type: none;">🧠 <a href="#-current-learning--scheduled-events">Current Learning & Scheduled Events</a></li>
   <li style="list-style-type: none;">🎓 <a href="#-education-training-event--networking-history"> Education, Training, Event & Networking History </a></li>
 
@@ -48,7 +48,7 @@ Looking for Junior Developer or aspiring Data Scientist who's project-driven, _[
 
 ---
 
-## ⚡ Career Transition: My Tech Learning Journey
+## ⚡ Career Transition: My Tech Journey
 
 - 🎯 _Career Transition Goal:_ <br>To gain a role in Data Science and/or (Software or Game) Development in 2023.
 
@@ -133,10 +133,9 @@ Looking for Junior Developer or aspiring Data Scientist who's project-driven, _[
 ### _Relative Education & Certifications_:
 
 - `04/23` She Codes Plus Program 22/23 (HTML, CSS, Javascript, ReactJS, Python, Django, DRF)
-- `03/23` [Analytics for All Upskilling - Tracked X WADSIH](https://github.com/Ms-KL/Ms-KL/files/11217428/Graduation_Certificate.-.Kristy_Gray_129330.pdf)
-- `09/22` [Microsoft
-  Azure AI Fundamentals](https://www.credly.com/badges/cf1a19d2-5f6e-49d2-9524-5eb88053f091/public_url)
-- `15/12/21` [Graduate Certificate in Commerce - UWA](https://user-images.githubusercontent.com/92511648/231627150-ac6555e2-ff70-4065-b046-761b6cb28676.png)
+- `03/23` [Analytics for All Upskilling](https://github.com/Ms-KL/Ms-KL/files/11217428/Graduation_Certificate.-.Kristy_Gray_129330.pdf) - Tracked X WADSIH
+- `09/22` [Azure AI Fundamentals](https://www.credly.com/badges/cf1a19d2-5f6e-49d2-9524-5eb88053f091/public_url) - Microsoft
+- `15/12/21` [Graduate Certificate in Commerce](https://user-images.githubusercontent.com/92511648/231627150-ac6555e2-ff70-4065-b046-761b6cb28676.png) - UWA
   - `2021` [Data Analysis and Decision Making](https://handbooks.uwa.edu.au/unitdetails?code=MGMT5504)
   - `2021` [Python Programming for Business](https://handbooks.uwa.edu.au/unitdetails?code=BUSN5101)
   - `2020` [Introductory Financial Accounting](https://handbooks.uwa.edu.au/unitdetails?code=ACCT5432)
@@ -145,36 +144,37 @@ Looking for Junior Developer or aspiring Data Scientist who's project-driven, _[
 ### _Training & Workshops Attended_:
 
 - 2023:
+  - `14/06/23` [Let's talk about Data Science, AI and Machine Learning](https://events.humanitix.com/checkpoint-talk-let-s-talk-about-data-science-ai-and-machine-learning-with-asli-yoruk-and-reece-jocumsen-powered-by-she-codes) - with Asli Yoruk and Reese Jocumsen
   - `18/05/23` Microsoft Level Up with GitHub Copilot & Codespaces
   - `13/03/23` Microsoft Azure Open Source Night
   - `04/03/23` Developing in Containers, She Codes Plus Masterclass
-  - `24/02/23` Power BI Fundamentals, WADSIH x Insight
+  - `24/02/23` [Power BI Fundamentals](https://www.eventbrite.com.au/e/wadsih-insight-upskilling-power-bi-fundamentals-tickets-616861498347) - WADSIH x Insight
   - `20/01/23` A Practical Intro to Cyber Security, SBDC x ECU
   - `16/01/23` "Progress over Perfection" with Bel Lloyd
 - 2022:
   - `16/11/22` Reactor Pop-Up Workshop Day, She Codes at Microsoft
   - `22/11/22` Hit the Ground Running: CV’s, LinkedIn, Interviews”, WADSIH x People Bank
   - `05/09/22` Mentoring Event "On the Shoulders of Giants", Microsoft Student Accelerator
-  - `25/08/22` Data Science Fundamentals, WADSIH x Insight
+  - `25/08/22` [Data Science Fundamentals](https://www.eventbrite.com.au/e/wadsih-insight-upskilling-data-science-fundamentals-tickets-368173485807) - WADSIH x Insight
 
 ### _Networking, Conferences & Events Attended_:
 
 - Monthly:
   - Python WA Meetup
 - 2023:
-  - `13/06/23` UWA Data Institute Data Driven Decisions Conference - “AI in the Wild”
-  - `08/06/23` AWSome Day Online Conference
-  - `07/06/23` Female Coders Collective (FC2) Meetup
-  - `02/06/23` Latency Conference 2023
-  - `22/02/23` AWS Innovate - Data and AI/ML Edition
+  - `13/06/23` [Data Driven Decisions (D3) Conference - “AI in the Wild”](https://www.uwadatainstitute.org.au/conference) - UWA Data Institute
+  - `08/06/23` [AWSome Day Online Conference](https://aws.amazon.com/events/awsome-day/awsome-day-online/) - AWS
+  - `07/06/23` [Female Coders Collective (FC2) Meetup](https://www.meetup.com/en-AU/female-coders-collective/)
+  - `02/06/23` [Latency Conference 2023](https://www.latencyconf.io/)
+  - `22/02/23` [AWS Innovate - Data and AI/ML Edition](https://aws.amazon.com/events/aws-innovate/apj/aiml-data/)
   - `20/02/23` She Codes Perth Networking Event
   - `09/02/23` STOMC Cyber Security Meetup
 - 2022:
-  - `08/12/22` AI Industry Day @ 35th Australasian Joint Conference on AI (AI2022)
-  - `06/12/22` West Tech Women 2022 @ West Tech Fest 2022
-  - `05/12/22` Cybotics AI Day @ West Tech Fest 2022
+  - `08/12/22` [AI Industry Day @ 35th Australasian Joint Conference on AI (AI2022)](https://ajcai2022.org/)
+  - `06/12/22` [West Tech Women 2022](https://www.westtechfest.com.au/event/west-tech-women/) - West Tech Fest 2022
+  - `05/12/22` [Cybotics AI Day](https://www.westtechfest.com.au/event/cybotics-ai-day/) - West Tech Fest 2022
   - `21/11/22` She Codes x Robert Walters Networking Event
-  - `18/11/22` WITWA Tech[+] Awards Night
+  - `18/11/22` [WITWA Tech[+] Awards Night](https://www.witwa.org.au/gallery/2022-witwa-tech-awards-night/)
 
 <br>
 
