@@ -128,7 +128,7 @@ Looking for a developer who's project-driven, _[loves to learn](#-current-learni
 
 ## 🎓 Education, Training, Event & Networking History:
 
-🧠 See my [Current Learning & Scheduled Events](##-current-learning--scheduled-events)
+🧠 See my [Current Learning & Scheduled Events](#-current-learning--scheduled-events)
 
 ### _Relative Education & Certifications_:
 
