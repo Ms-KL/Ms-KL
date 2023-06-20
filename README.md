@@ -70,13 +70,15 @@ Looking for Junior Developer or aspiring Data Scientist who's project-driven, _[
 
 ### _Current Learning_:
 
-- Streamlit: ["Create an app" (Streamlit Docs)](https://docs.streamlit.io/library/get-started/create-an-app) | My [Playground Repo](https://github.com/Ms-KL/streamlit-playground)
-- AWS Cloud: ["AWS Cloud Quest" (AWS)](https://cloudquest.skillbuilder.aws/?refresh=true)
-- Agile: ["Being Agile" (Udemy)](https://www.udemy.com/share/10769E3@nMGKDQnmsActrYd3pCVHhxT7OP3xTI9PS1GuuZlvl1LFsk8nRKjaHC-mdwV2juvy/)
+| Subject                   | Course                                                                                                                                                                                                                                    | Code                                                                                                                  |
+| :------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------- |
+| Python Data Visualisation | ["Data Visualisation w/ <br> Python, MatPlotLib & SeaBorn" <br> (FreeCodeCamp)](https://www.freecodecamp.org/news/exploratory-data-analysis-with-numpy-pandas-matplotlib-seaborn/#data-visualization-using-python-matplotlib-and-seaborn) | [Repo](https://github.com/Ms-KL/python-data-science-playground/blob/main/data-visualisation/data_visualisation.ipynb) |
+| Streamlit                 | ["Create an app" <br> (Streamlit Docs)](https://docs.streamlit.io/library/get-started/create-an-app)                                                                                                                                      | [Repo](https://github.com/Ms-KL/streamlit-playground)                                                                 |
+| AWS Cloud                 | ["AWS Cloud Quest" <br> (AWS)](https://cloudquest.skillbuilder.aws/?refresh=true)                                                                                                                                                         |                                                                                                                       |
+| Agile                     | ["Being Agile" <br> (Udemy)](https://www.udemy.com/share/10769E3@nMGKDQnmsActrYd3pCVHhxT7OP3xTI9PS1GuuZlvl1LFsk8nRKjaHC-mdwV2juvy/)                                                                                                       |                                                                                                                       |
 
 ### _Scheduled Events_:
 
-- `17/06/23` She Codes One Day Workshop - ✨ Python volunteer mentor
 - `02/08/23 - 03/08/23` Data & AI for Business Conference - ⏳ obtain ticket
 - `07/10/23` DDD Conference - ✅ ticket obtained
 
@@ -87,6 +89,8 @@ Looking for Junior Developer or aspiring Data Scientist who's project-driven, _[
 ---
 
 ## 🚀 Current WIP, Projects, Challenges & Playgrounds:
+
+[![Data Visualisation with Python](https://github-readme-stats.vercel.app/api/pin/?username=Ms-KL&repo=python-data-science-playground)](https://github.com/Ms-KL/python-data-science-playground)
 
 [![Streamlit Playground](https://github-readme-stats.vercel.app/api/pin/?username=Ms-KL&repo=streamlit-playground)](https://github.com/Ms-KL/streamlit-playground)
 
@@ -144,13 +148,16 @@ Looking for Junior Developer or aspiring Data Scientist who's project-driven, _[
 ### _Training & Workshops Attended_:
 
 - 2023:
-  - `14/06/23` [Let's talk about Data Science, AI and Machine Learning](https://events.humanitix.com/checkpoint-talk-let-s-talk-about-data-science-ai-and-machine-learning-with-asli-yoruk-and-reece-jocumsen-powered-by-she-codes) - with Asli Yoruk and Reese Jocumsen
+
+  - `17/06/23` She Codes One Day Workshop - ✨ Python volunteer mentor
+  - `14/06/23` [Let's talk about Data Science, AI and ML](https://events.humanitix.com/checkpoint-talk-let-s-talk-about-data-science-ai-and-machine-learning-with-asli-yoruk-and-reece-jocumsen-powered-by-she-codes) - w/ Asli Yoruk & Reese Jocumsen
   - `18/05/23` Microsoft Level Up with GitHub Copilot & Codespaces
   - `13/03/23` Microsoft Azure Open Source Night
   - `04/03/23` Developing in Containers, She Codes Plus Masterclass
   - `24/02/23` [Power BI Fundamentals](https://www.eventbrite.com.au/e/wadsih-insight-upskilling-power-bi-fundamentals-tickets-616861498347) - WADSIH x Insight
   - `20/01/23` A Practical Intro to Cyber Security, SBDC x ECU
   - `16/01/23` "Progress over Perfection" with Bel Lloyd
+
 - 2022:
   - `16/11/22` Reactor Pop-Up Workshop Day, She Codes at Microsoft
   - `22/11/22` Hit the Ground Running: CV’s, LinkedIn, Interviews”, WADSIH x People Bank
