@@ -79,8 +79,14 @@ Looking for Junior Developer or aspiring Data Scientist who's project-driven, _[
 
 ### _Scheduled Events_:
 
-- `02/08/23 - 03/08/23` Data & AI for Business Conference - ⏳ obtain ticket
-- `07/10/23` DDD Conference - ✅ ticket obtained
+- `06/07/23` - [AWS Developer Webinar Series: Harnessing the power of Generative AI](https://pages.awscloud.com/anz-developer-webinar-generative-ai.html?trk=1c8a88f3-1206-4b6d-984e-e75cf60094d3&sc_channel=em) ✅ registered
+- `14/07/23` - [STEMPower Program - Reconnecting Women to their Worth, their Value and the Workplace](https://events.humanitix.com/stempower)
+- `29/07/23` - [Level Her Up: Game Development 101](https://levelherup.com.au/) - Design Workshops ✅ registered
+- `02/08/23 - 03/08/23` [Data & AI for Business Conference](https://wadsih.org.au/conference/) - ⏳ must obtain ticket
+- `12/08/23` - [Level Her Up: Game Development 101](https://levelherup.com.au/) - Build Workshops ✅ registered
+- `29/08/23` - [Level Her Up: Game Development 101](https://levelherup.com.au/) - Build/Release Workshops ✅ registered
+- `16/09/23 - 17/09/23` - [Level Her Up: Game Jam Weekend](https://levelherup.com.au/) ✅ registered
+- `07/10/23` [DDD Conference](https://dddperth.com/) - ✅ bought ticket
 
 <br>
 
