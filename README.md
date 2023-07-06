@@ -13,7 +13,7 @@
   <li style="list-style-type: none;">🎓 <a href="#-education-training-event--networking-history"> Education, Training, Event & Networking History </a></li>
 
   <br>
-  <li style="list-style-type: none;">🚀 <a href="#-current-wip-projects-challenges--playgrounds">Projects: WIP / Current </a></li>
+  <li style="list-style-type: none;">🚀 <a href="#-personal-projects-current-wip-projects-challenges--playgrounds">Projects: Personal WIP/Current </a></li>
   <li style="list-style-type: none;">  <img src="images/uwa-logo.png" width="15px" height="15px" /> <a href="#-uwa-post-graduate-certificate-of-commerce-projects">&#160;Projects: UWA GradCertComm </a></li>
   <li style="list-style-type: none;">  <img src="images/shecodes-icon.png" width="15px" height="15px" /> <a href="#-she-codes-plus-projects">&#160;Projects: She Codes Plus </a></li>
 
@@ -79,10 +79,9 @@ Looking for Junior Developer or aspiring Data Scientist who's project-driven, _[
 
 ### _Scheduled Events_:
 
-- `06/07/23` - [AWS Developer Webinar Series: Harnessing the power of Generative AI](https://pages.awscloud.com/anz-developer-webinar-generative-ai.html?trk=1c8a88f3-1206-4b6d-984e-e75cf60094d3&sc_channel=em) ✅ registered
 - `14/07/23` - [STEMPower Program - Reconnecting Women to their Worth, their Value and the Workplace](https://events.humanitix.com/stempower)
 - `29/07/23` - [Level Her Up: Game Development 101](https://levelherup.com.au/) - Design Workshops ✅ registered
-- `02/08/23 - 03/08/23` [Data & AI for Business Conference](https://wadsih.org.au/conference/) - ⏳ must obtain ticket
+- `02/08/23 - 03/08/23` [Data & AI for Business Conference](https://wadsih.org.au/conference/) - ✨ Volunteer & attendee
 - `12/08/23` - [Level Her Up: Game Development 101](https://levelherup.com.au/) - Build Workshops ✅ registered
 - `29/08/23` - [Level Her Up: Game Development 101](https://levelherup.com.au/) - Build/Release Workshops ✅ registered
 - `16/09/23 - 17/09/23` - [Level Her Up: Game Jam Weekend](https://levelherup.com.au/) ✅ registered
@@ -94,7 +93,9 @@ Looking for Junior Developer or aspiring Data Scientist who's project-driven, _[
 
 ---
 
-## 🚀 Current WIP, Projects, Challenges & Playgrounds:
+## 🚀 Personal Projects: Current, WIP, Challenges & Playgrounds:
+
+[![Sulphite Safe App](https://github-readme-stats.vercel.app/api/pin/?username=Ms-KL&repo=sulphite-safe)](https://github.com/Ms-KL/sulphite-safe)
 
 [![Data Visualisation with Python](https://github-readme-stats.vercel.app/api/pin/?username=Ms-KL&repo=python-data-science-playground)](https://github.com/Ms-KL/python-data-science-playground)
 
@@ -155,6 +156,7 @@ Looking for Junior Developer or aspiring Data Scientist who's project-driven, _[
 
 - 2023:
 
+  - `06/07/23` [AWS Developer Webinar Series: Harnessing the power of Generative AI](https://pages.awscloud.com/anz-developer-webinar-generative-ai.html?trk=1c8a88f3-1206-4b6d-984e-e75cf60094d3&sc_channel=em) - AWS
   - `17/06/23` She Codes One Day Workshop - ✨ Python volunteer mentor
   - `14/06/23` [Let's talk about Data Science, AI and ML](https://events.humanitix.com/checkpoint-talk-let-s-talk-about-data-science-ai-and-machine-learning-with-asli-yoruk-and-reece-jocumsen-powered-by-she-codes) - w/ Asli Yoruk & Reese Jocumsen
   - `18/05/23` Microsoft Level Up with GitHub Copilot & Codespaces
