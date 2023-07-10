@@ -2,7 +2,8 @@
 
 # **Kristy Leigh:** <br>Junior Developer & Data Science Enthusiast
 
-<p><img src="https://skillicons.dev/icons?i=html,css,js,react,py,django" height="25" /></p>
+<!-- https://github.com/tandpfun/skill-icons#readme -->
+<p><img src="https://skillicons.dev/icons?i=html,css,js,react,py,django,php" height="25" /></p>
 
 ## ↳ Skip To:
 
@@ -98,10 +99,10 @@ _See [My Projects](#-my-projects) for in-depth exploration & revision of my lear
 
 ### _Tech Playgrounds:_
 
-- [PHP](https://github.com/Ms-KL/php-playground)
-- [Data Visualisation w/ Python, MatPlotLib & SeaBorn](https://github.com/Ms-KL/python-data-science-playground/blob/main/data-visualisation/data_visualisation.ipynb)
-- [Streamlit: Create an App](https://github.com/Ms-KL/streamlit-playground)
-- [Python Mentor Prep: She Codes One Day Workshop](https://github.com/Ms-KL/python-shecodes-workshop-mentor-prep)
+- <img src="https://skillicons.dev/icons?i=php" height="20" /> [PHP for beginners](https://github.com/Ms-KL/php-playground)
+- <img src="https://skillicons.dev/icons?i=py" height="20" /> [Data Visualisation w/ Python, MatPlotLib & SeaBorn](https://github.com/Ms-KL/python-data-science-playground/blob/main/data-visualisation/data_visualisation.ipynb)
+- <img src="https://skillicons.dev/icons?i=py" height="20" /> [Streamlit: Create an App](https://github.com/Ms-KL/streamlit-playground)
+- <img src="https://skillicons.dev/icons?i=py" height="20" /> [Python Mentor Prep: She Codes One Day Workshop](https://github.com/Ms-KL/python-shecodes-workshop-mentor-prep)
 
 ↑ [Back to Top](#-skip-to)
 
