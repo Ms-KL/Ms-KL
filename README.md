@@ -10,7 +10,7 @@
   <li style="list-style-type: none;">⭐ <a href="#-about-me">About Me</a></li>
   <li style="list-style-type: none;">⚡ <a href="#-career-transition-my-tech-journey">Career Transition: My Tech Journey </a></li>
   <li style="list-style-type: none;">📅 <a href="#scheduled-events--training"> Scheduled Events & Training </a></li>
-  <li style="list-style-type: none;">🧠 <a href="#--current-learning--tech-playgrounds-exploration-revision--challenges"> Current Learning & Tech Playgrounds</a></li>
+  <li style="list-style-type: none;">🧠 <a href="#-current-learning--tech-playgrounds-exploration-revision--challenges"> Current Learning & Tech Playgrounds</a></li>
   <li style="list-style-type: none;">🎓 <a href="#-education-training-event--networking-history"> Education, Training, Event & Networking History </a></li>
 
   <br>
@@ -89,7 +89,7 @@ Looking for Junior Developer or aspiring Data Scientist who's project-driven, _[
 
 ## 🧠 Current Learning & Tech Playgrounds: <br>_Exploration, Revision & Challenges_
 
-_See [My Projects](#my-projects) for in-depth exploration & revision of my learning._
+_See [My Projects](#-my-projects) for in-depth exploration & revision of my learning._
 
 ### _External Learning:_
 
@@ -147,7 +147,7 @@ _See [My Projects](#my-projects) for in-depth exploration & revision of my learn
 
 _See my:_ <br>
 📅 <a href="#scheduled-events--training"> Scheduled Events & Training </a> <br>
-🧠 <a href="#--current-learning--tech-playgrounds-exploration-revision--challenges"> Current Learning & Tech Playgrounds</a>
+🧠 <a href="#-current-learning--tech-playgrounds-exploration-revision--challenges"> Current Learning & Tech Playgrounds</a>
 
 ### _Relative Education & Certifications_:
 
