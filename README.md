@@ -10,12 +10,12 @@
   <li style="list-style-type: none;">⭐ <a href="#-about-me">About Me</a></li>
   <li style="list-style-type: none;">⚡ <a href="#-career-transition-my-tech-journey">Career Transition: My Tech Journey </a></li>
   <li style="list-style-type: none;">📅 <a href="#scheduled-events--training"> Scheduled Events & Training </a></li>
-  <li style="list-style-type: none;">🧠 <a href="#🧠-current-learning--tech-playgrounds-exploration-revision--challenges"> Current Learning & Tech Playgrounds</a></li>
-
+  <li style="list-style-type: none;">🧠 <a href="#--current-learning--tech-playgrounds-exploration-revision--challenges"> Current Learning & Tech Playgrounds</a></li>
   <li style="list-style-type: none;">🎓 <a href="#-education-training-event--networking-history"> Education, Training, Event & Networking History </a></li>
 
   <br>
 
+  <li style="list-style-type: none;">💻<a href="#-my-projects">My Projects:</a></li>
   <li style="list-style-type: none;">🚀 <a href="#personal-projects-current--wip ">Projects: Personal WIP/Current </a></li>
   <li style="list-style-type: none;">  <img src="images/uwa-logo.png" width="15px" height="15px" /> <a href="#-uwa-post-graduate-certificate-of-commerce-projects">&#160;Projects: UWA GradCertComm </a></li>
   <li style="list-style-type: none;">  <img src="images/shecodes-icon.png" width="15px" height="15px" /> <a href="#-she-codes-plus-projects">&#160;Projects: She Codes Plus </a></li>
@@ -89,6 +89,8 @@ Looking for Junior Developer or aspiring Data Scientist who's project-driven, _[
 
 ## 🧠 Current Learning & Tech Playgrounds: <br>_Exploration, Revision & Challenges_
 
+_See [My Projects](#my-projects) for in-depth exploration & revision of my learning._
+
 ### _External Learning:_
 
 - ["AWS Cloud Quest" (AWS)](https://cloudquest.skillbuilder.aws/?refresh=true)
@@ -101,30 +103,26 @@ Looking for Junior Developer or aspiring Data Scientist who's project-driven, _[
 - [Streamlit: Create an App](https://github.com/Ms-KL/streamlit-playground)
 - [Python Mentor Prep: She Codes One Day Workshop](https://github.com/Ms-KL/python-shecodes-workshop-mentor-prep)
 
-<br>
-
 ↑ [Back to Top](#-skip-to)
 
 ---
 
-## 🚀 Personal Projects: Current & WIP
+## 💻 My Projects:
+
+### 🚀 Personal Projects: Current & WIP
 
 [![Sulphite Safe App](https://github-readme-stats.vercel.app/api/pin/?username=Ms-KL&repo=sulphite-safe)](https://github.com/Ms-KL/sulphite-safe)
 
 [![Tetris](https://github-readme-stats.vercel.app/api/pin/?username=Ms-KL&repo=tetris)](https://github.com/Ms-KL/tetris)
 
----
-
-## <img src="images/uwa-logo.png" width="30px" height="30px" /> UWA (Post) Graduate Certificate of Commerce Projects:
+### <img src="images/uwa-logo.png" width="20px" height="20px" /> UWA (Post) Graduate Certificate of Commerce Projects:
 
 |       | Tech     | Project                                                                                                         | Code                                                | Unit                              |
 | :---- | :------- | :-------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------- | :-------------------------------- |
 | ✅'21 | `Python` | Aviation Analysis System: <br>• jupyter notebook <br>• business report<br>• data visualisations                 | [Repo](https://github.com/Ms-KL/uwa-python-project) | Python Programming for Business   |
 | ✅'21 | `Excel`  | Investing in our leaders: <br>• statistical analysis & prediction<br>• business report<br>• data visualisations | Coming Soon                                         | Data Analysis and Decision Making |
 
-<br>
-
-## <img src="images/shecodes-icon.png" width="25px" height="25px" /> She Codes Plus Projects:
+### <img src="images/shecodes-icon.png" width="20px" height="20px" /> She Codes Plus Projects:
 
 ✨ = porfolio was redesigned. Please see my [current / v2 Portfolio.](https://ms-kl.github.io/)
 
@@ -147,7 +145,9 @@ Looking for Junior Developer or aspiring Data Scientist who's project-driven, _[
 
 ## 🎓 Education, Training, Event & Networking History:
 
-🧠 See my [Current Learning & Scheduled Events](#-current-learning--scheduled-events)
+_See my:_ <br>
+📅 <a href="#scheduled-events--training"> Scheduled Events & Training </a> <br>
+🧠 <a href="#--current-learning--tech-playgrounds-exploration-revision--challenges"> Current Learning & Tech Playgrounds</a>
 
 ### _Relative Education & Certifications_:
 
