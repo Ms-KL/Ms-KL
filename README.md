@@ -9,11 +9,14 @@
 <ul>
   <li style="list-style-type: none;">⭐ <a href="#-about-me">About Me</a></li>
   <li style="list-style-type: none;">⚡ <a href="#-career-transition-my-tech-journey">Career Transition: My Tech Journey </a></li>
-  <li style="list-style-type: none;">🧠 <a href="#-current-learning--scheduled-events">Current Learning & Scheduled Events</a></li>
+  <li style="list-style-type: none;">📅 <a href="#scheduled-events--training"> Scheduled Events & Training </a></li>
+  <li style="list-style-type: none;">🧠 <a href="#🧠-current-learning--tech-playgrounds-exploration-revision--challenges"> Current Learning & Tech Playgrounds</a></li>
+
   <li style="list-style-type: none;">🎓 <a href="#-education-training-event--networking-history"> Education, Training, Event & Networking History </a></li>
 
   <br>
-  <li style="list-style-type: none;">🚀 <a href="#-personal-projects-current-wip-projects-challenges--playgrounds">Projects: Personal WIP/Current </a></li>
+
+  <li style="list-style-type: none;">🚀 <a href="#personal-projects-current--wip ">Projects: Personal WIP/Current </a></li>
   <li style="list-style-type: none;">  <img src="images/uwa-logo.png" width="15px" height="15px" /> <a href="#-uwa-post-graduate-certificate-of-commerce-projects">&#160;Projects: UWA GradCertComm </a></li>
   <li style="list-style-type: none;">  <img src="images/shecodes-icon.png" width="15px" height="15px" /> <a href="#-she-codes-plus-projects">&#160;Projects: She Codes Plus </a></li>
 
@@ -64,20 +67,11 @@ Looking for Junior Developer or aspiring Data Scientist who's project-driven, _[
 
 ---
 
-## 🧠 Current Learning & Scheduled Events:
+## 📅 Scheduled Events & Training:
 
 🎓 See my [Training & Event History](#-education-training-event--networking-history)
 
-### _Current Learning_:
-
-| Subject                   | Course                                                                                                                                                                                                                                    | Code                                                                                                                  |
-| :------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------- |
-| Python Data Visualisation | ["Data Visualisation w/ <br> Python, MatPlotLib & SeaBorn" <br> (FreeCodeCamp)](https://www.freecodecamp.org/news/exploratory-data-analysis-with-numpy-pandas-matplotlib-seaborn/#data-visualization-using-python-matplotlib-and-seaborn) | [Repo](https://github.com/Ms-KL/python-data-science-playground/blob/main/data-visualisation/data_visualisation.ipynb) |
-| Streamlit                 | ["Create an app" <br> (Streamlit Docs)](https://docs.streamlit.io/library/get-started/create-an-app)                                                                                                                                      | [Repo](https://github.com/Ms-KL/streamlit-playground)                                                                 |
-| AWS Cloud                 | ["AWS Cloud Quest" <br> (AWS)](https://cloudquest.skillbuilder.aws/?refresh=true)                                                                                                                                                         |                                                                                                                       |
-| Agile                     | ["Being Agile" <br> (Udemy)](https://www.udemy.com/share/10769E3@nMGKDQnmsActrYd3pCVHhxT7OP3xTI9PS1GuuZlvl1LFsk8nRKjaHC-mdwV2juvy/)                                                                                                       |                                                                                                                       |
-
-### _Scheduled Events_:
+### _Scheduled Events & Training_:
 
 - `14/07/23` - [STEMPower Program - Reconnecting Women to their Worth, their Value and the Workplace](https://events.humanitix.com/stempower)
 - `29/07/23` - [Level Her Up: Game Development 101](https://levelherup.com.au/) - Design Workshops ✅ registered
@@ -93,19 +87,33 @@ Looking for Junior Developer or aspiring Data Scientist who's project-driven, _[
 
 ---
 
-## 🚀 Personal Projects: Current, WIP, Challenges & Playgrounds:
+## 🧠 Current Learning & Tech Playgrounds: <br>_Exploration, Revision & Challenges_
+
+### _External Learning:_
+
+- ["AWS Cloud Quest" (AWS)](https://cloudquest.skillbuilder.aws/?refresh=true)
+- ["Being Agile" (Udemy)](https://www.udemy.com/share/10769E3@nMGKDQnmsActrYd3pCVHhxT7OP3xTI9PS1GuuZlvl1LFsk8nRKjaHC-mdwV2juvy/)
+
+### _Tech Playgrounds:_
+
+- [PHP](https://github.com/Ms-KL/php-playground)
+- [Data Visualisation w/ Python, MatPlotLib & SeaBorn](https://github.com/Ms-KL/python-data-science-playground/blob/main/data-visualisation/data_visualisation.ipynb)
+- [Streamlit: Create an App](https://github.com/Ms-KL/streamlit-playground)
+- [Python Mentor Prep: She Codes One Day Workshop](https://github.com/Ms-KL/python-shecodes-workshop-mentor-prep)
+
+<br>
+
+↑ [Back to Top](#-skip-to)
+
+---
+
+## 🚀 Personal Projects: Current & WIP
 
 [![Sulphite Safe App](https://github-readme-stats.vercel.app/api/pin/?username=Ms-KL&repo=sulphite-safe)](https://github.com/Ms-KL/sulphite-safe)
 
-[![Data Visualisation with Python](https://github-readme-stats.vercel.app/api/pin/?username=Ms-KL&repo=python-data-science-playground)](https://github.com/Ms-KL/python-data-science-playground)
-
-[![Streamlit Playground](https://github-readme-stats.vercel.app/api/pin/?username=Ms-KL&repo=streamlit-playground)](https://github.com/Ms-KL/streamlit-playground)
-
 [![Tetris](https://github-readme-stats.vercel.app/api/pin/?username=Ms-KL&repo=tetris)](https://github.com/Ms-KL/tetris)
 
-[![Python Mentor Prep: She Codes One Day Workshop 17 June 2023](https://github-readme-stats.vercel.app/api/pin/?username=Ms-KL&repo=python-shecodes-workshop-mentor-prep)](https://github.com/Ms-KL/python-shecodes-workshop-mentor-prep)
-
-<br>
+---
 
 ## <img src="images/uwa-logo.png" width="30px" height="30px" /> UWA (Post) Graduate Certificate of Commerce Projects:
 
