@@ -126,16 +126,16 @@ _See [My Projects](#-my-projects) for in-depth exploration & revision of my lear
 
 ✨ = porfolio was redesigned. Please see my [current / v2 Portfolio.](https://ms-kl.github.io/)
 
-|       | Tech                             | Project                                                                                          | Code                                                                       |
-| :---- | :------------------------------- | :----------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------- |
-| ✅'22 | `HTML` `CSS`                     | [Portfolio Website v1 ✨](https://ms-kl.github.io/v1)                                            | [Repo](https://github.com/Ms-KL/Ms-KL.github.io/v1)                        |
-| ✅'22 | `Python`                         | Weather Data Processing                                                                          | [Repo](https://github.com/Ms-KL/she-codes-python-weather-project-Ms-KL)    |
-| ✅'22 | `Python` `Django`                | [News Website](https://www.loom.com/share/fa6a7813a17f41b69c7a54d8ddf87a7a)                      | [Repo](https://github.com/Ms-KL/she-codes-django-news-project-Ms-KL)       |
-| ✅'23 | `Python` `Django REST Framework` | [Crowdfunding App (back-end)](https://icy-dew-540.fly.dev/)                                      | [Repo](https://github.com/Ms-KL/she-codes-crowdfunding-api-project-Ms-KL)  |
-| ✅'23 | `HTML` `CSS` `React.JS`          | [Crowdfunding App (front-end)](https://prismatic-phoenix-20010b.netlify.app/)                    | [Repo](https://github.com/Ms-KL/crowdfunding)                              |
-| ✅'23 | `React.JS`                       | To-Do list app                                                                                   | [Repo](https://github.com/Ms-KL/todo-list)                                 |
-| ✅'23 | `Python` `Django REST Framework` | [Mentor Scheduling Tool (back-end)](https://fully-committed-mentor-scheduling-tool.fly.dev/)     | [Repo](https://github.com/SheCodesAus/fully_committed_group_2023_backend)  |
-| ✅'23 | `HTML` `CSS` `React.JS`          | [Mentor Scheduling Tool (front-end)](https://fullycommitted-mentor-scheduling-tool.netlify.app/) | [Repo](https://github.com/SheCodesAus/fully_committed_group_2023_frontend) |
+|       | Tech                             | Project                                                                                          | Code                                                                                 |
+| :---- | :------------------------------- | :----------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------- |
+| ✅'22 | `HTML` `CSS`                     | [Portfolio Website v1 ✨](https://ms-kl.github.io/v1)                                            | [Repo](https://github.com/Ms-KL/Ms-KL.github.io/v1)                                  |
+| ✅'22 | `Python`                         | Weather Data Processing                                                                          | [Repo](https://github.com/Ms-KL/she-codes-python-weather-project-Ms-KL)              |
+| ✅'22 | `Python` `Django`                | [News Website](https://www.loom.com/share/fa6a7813a17f41b69c7a54d8ddf87a7a)                      | [Repo](https://github.com/Ms-KL/she-codes-django-news-project-Ms-KL)                 |
+| ✅'23 | `Python` `Django REST Framework` | [Crowdfunding App (back-end)](https://icy-dew-540.fly.dev/)                                      | [Repo](https://github.com/Ms-KL/she-codes-crowdfunding-api-project-Ms-KL)            |
+| ✅'23 | `HTML` `CSS` `React.JS`          | [Crowdfunding App (front-end)](https://prismatic-phoenix-20010b.netlify.app/)                    | [Repo](https://github.com/Ms-KL/crowdfunding)                                        |
+| ✅'23 | `React.JS`                       | To-Do list app                                                                                   | [Repo](https://github.com/Ms-KL/she-codes-react-exercises-Ms-KL/tree/main/todo-list) |
+| ✅'23 | `Python` `Django REST Framework` | [Mentor Scheduling Tool (back-end)](https://fully-committed-mentor-scheduling-tool.fly.dev/)     | [Repo](https://github.com/SheCodesAus/fully_committed_group_2023_backend)            |
+| ✅'23 | `HTML` `CSS` `React.JS`          | [Mentor Scheduling Tool (front-end)](https://fullycommitted-mentor-scheduling-tool.netlify.app/) | [Repo](https://github.com/SheCodesAus/fully_committed_group_2023_frontend)           |
 
 <br>
 
