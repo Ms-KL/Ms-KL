@@ -74,7 +74,6 @@ Looking for Junior Developer or aspiring Data Scientist who's project-driven, _[
 
 ### _Scheduled Events & Training_:
 
-- `14/07/23` - [STEMPower Program - Reconnecting Women to their Worth, their Value and the Workplace](https://events.humanitix.com/stempower)
 - `29/07/23` - [Level Her Up: Game Development 101](https://levelherup.com.au/) - Design Workshops ✅ registered
 - `02/08/23 - 03/08/23` [Data & AI for Business Conference](https://wadsih.org.au/conference/) - ✨ Volunteer & attendee
 - `12/08/23` - [Level Her Up: Game Development 101](https://levelherup.com.au/) - Build Workshops ✅ registered
@@ -112,6 +111,8 @@ _See [My Projects](#-my-projects) for in-depth exploration & revision of my lear
 
 ### 🚀 Personal Projects: Current & WIP
 
+[![OpenAI App](https://github-readme-stats.vercel.app/api/pin/?username=Ms-KL&repo=openai-python-app)](https://github.com/Ms-KL/openai-python-app)
+
 [![Sulphite Safe App](https://github-readme-stats.vercel.app/api/pin/?username=Ms-KL&repo=sulphite-safe)](https://github.com/Ms-KL/sulphite-safe)
 
 [![Tetris](https://github-readme-stats.vercel.app/api/pin/?username=Ms-KL&repo=tetris)](https://github.com/Ms-KL/tetris)
@@ -129,7 +130,7 @@ _See [My Projects](#-my-projects) for in-depth exploration & revision of my lear
 
 |       | Tech                             | Project                                                                                          | Code                                                                                 |
 | :---- | :------------------------------- | :----------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------- |
-| ✅'22 | `HTML` `CSS`                     | [Portfolio Website v1 ✨](https://ms-kl.github.io/v1)                                            | [Repo](https://github.com/Ms-KL/Ms-KL.github.io/tree/main/v1)                                  |
+| ✅'22 | `HTML` `CSS`                     | [Portfolio Website v1 ✨](https://ms-kl.github.io/v1)                                            | [Repo](https://github.com/Ms-KL/Ms-KL.github.io/tree/main/v1)                        |
 | ✅'22 | `Python`                         | Weather Data Processing                                                                          | [Repo](https://github.com/Ms-KL/she-codes-python-weather-project-Ms-KL)              |
 | ✅'22 | `Python` `Django`                | [News Website](https://www.loom.com/share/fa6a7813a17f41b69c7a54d8ddf87a7a)                      | [Repo](https://github.com/Ms-KL/she-codes-django-news-project-Ms-KL)                 |
 | ✅'23 | `Python` `Django REST Framework` | [Crowdfunding App (back-end)](https://icy-dew-540.fly.dev/)                                      | [Repo](https://github.com/Ms-KL/she-codes-crowdfunding-api-project-Ms-KL)            |
@@ -165,6 +166,8 @@ _See my:_ <br>
 
 - 2023:
 
+  - `14/07/23` [Reconnecting Women to their Worth, their Value and the Workplace](https://events.humanitix.com/stempower) - STEMPower Program w/ WiTWA
+  - `12/07/23` [Operating Systems and Development Environments](https://events.humanitix.com/webinar-operating-systems-and-development-environments-with-oliver-lavers-powered-by-she-codes) - w/ Oliver Lavers
   - `06/07/23` [AWS Developer Webinar Series: Harnessing the power of Generative AI](https://pages.awscloud.com/anz-developer-webinar-generative-ai.html?trk=1c8a88f3-1206-4b6d-984e-e75cf60094d3&sc_channel=em) - AWS
   - `17/06/23` She Codes One Day Workshop - ✨ Python volunteer mentor
   - `14/06/23` [Let's talk about Data Science, AI and ML](https://events.humanitix.com/checkpoint-talk-let-s-talk-about-data-science-ai-and-machine-learning-with-asli-yoruk-and-reece-jocumsen-powered-by-she-codes) - w/ Asli Yoruk & Reese Jocumsen
