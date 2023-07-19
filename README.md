@@ -3,7 +3,7 @@
 # **Kristy Leigh:** <br>Junior Developer & Data Science Enthusiast
 
 <!-- https://github.com/tandpfun/skill-icons#readme -->
-<p><img src="https://skillicons.dev/icons?i=html,css,js,react,py,django,php" height="25" /></p>
+<p><img src="https://skillicons.dev/icons?i=html,css,js,react,py,django" height="25" /></p>
 
 ## ↳ Skip To:
 
