@@ -95,12 +95,14 @@ _See [My Projects](#-my-projects) for in-depth exploration & revision of my lear
 
 - ["AWS Cloud Quest" (AWS)](https://cloudquest.skillbuilder.aws/?refresh=true)
 - ["Being Agile" (Udemy)](https://www.udemy.com/share/10769E3@nMGKDQnmsActrYd3pCVHhxT7OP3xTI9PS1GuuZlvl1LFsk8nRKjaHC-mdwV2juvy/)
+- ["Agile Foundations (LinkedIn)](https://www.linkedin.com/learning/agile-foundations)
 
 ### _Tech Playgrounds:_
 
+- <img src="https://skillicons.dev/icons?i=py" height="20" /> [LLM OpenAI API Playground](https://github.com/Ms-KL/llm-openai-api-playground)
 - <img src="https://skillicons.dev/icons?i=py" height="20" /> [Python Data Science Playground](https://github.com/Ms-KL/python-data-science-playground)
 - <img src="https://skillicons.dev/icons?i=py" height="20" /> [Streamlit Playground](https://github.com/Ms-KL/streamlit-playground)
-- <img src="https://skillicons.dev/icons?i=py" height="20" /> [Restful AP Playground](https://github.com/Ms-KL/restfulapi-playground)
+- <img src="https://skillicons.dev/icons?i=py" height="20" /> [Restful API Playground](https://github.com/Ms-KL/restfulapi-playground)
 - <img src="https://skillicons.dev/icons?i=py" height="20" /> [Python Mentor Prep: She Codes One Day Workshop](https://github.com/Ms-KL/python-shecodes-workshop-mentor-prep)
 - <img src="https://skillicons.dev/icons?i=php" height="20" /> [PHP Playground](https://github.com/Ms-KL/php-playground)
 
@@ -109,21 +111,6 @@ _See [My Projects](#-my-projects) for in-depth exploration & revision of my lear
 ---
 
 ## 💻 My Projects:
-
-### 🚀 Personal Projects: Current & WIP
-
-[![OpenAI App](https://github-readme-stats.vercel.app/api/pin/?username=Ms-KL&repo=openai-python-app)](https://github.com/Ms-KL/openai-python-app)
-
-[![Sulphite Safe App](https://github-readme-stats.vercel.app/api/pin/?username=Ms-KL&repo=sulphite-safe)](https://github.com/Ms-KL/sulphite-safe)
-
-[![Tetris](https://github-readme-stats.vercel.app/api/pin/?username=Ms-KL&repo=tetris)](https://github.com/Ms-KL/tetris)
-
-### <img src="images/uwa-logo.png" width="20px" height="20px" /> UWA (Post) Graduate Certificate of Commerce Projects:
-
-|       | Tech     | Project                                                                                                         | Code                                                | Unit                              |
-| :---- | :------- | :-------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------- | :-------------------------------- |
-| ✅'21 | `Python` | Aviation Analysis System: <br>• jupyter notebook <br>• business report<br>• data visualisations                 | [Repo](https://github.com/Ms-KL/uwa-python-project) | Python Programming for Business   |
-| ✅'21 | `Excel`  | Investing in our leaders: <br>• statistical analysis & prediction<br>• business report<br>• data visualisations | Coming Soon                                         | Data Analysis and Decision Making |
 
 ### <img src="images/shecodes-icon.png" width="20px" height="20px" /> She Codes Plus Projects:
 
@@ -141,6 +128,21 @@ _See [My Projects](#-my-projects) for in-depth exploration & revision of my lear
 | ✅'23 | `HTML` `CSS` `React.JS`          | [Mentor Scheduling Tool (front-end)](https://fullycommitted-mentor-scheduling-tool.netlify.app/) | [Repo](https://github.com/SheCodesAus/fully_committed_group_2023_frontend)           |
 
 <br>
+
+### <img src="images/uwa-logo.png" width="20px" height="20px" /> UWA (Post) Graduate Certificate of Commerce Projects:
+
+|       | Tech     | Project                                                                                                         | Code                                                | Unit                              |
+| :---- | :------- | :-------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------- | :-------------------------------- |
+| ✅'21 | `Python` | Aviation Analysis System: <br>• jupyter notebook <br>• business report<br>• data visualisations                 | [Repo](https://github.com/Ms-KL/uwa-python-project) | Python Programming for Business   |
+| ✅'21 | `Excel`  | Investing in our leaders: <br>• statistical analysis & prediction<br>• business report<br>• data visualisations | Coming Soon                                         | Data Analysis and Decision Making |
+
+<br>
+
+### 🚀 Personal Projects: Current & WIP
+
+[![Sulphite Safe App](https://github-readme-stats.vercel.app/api/pin/?username=Ms-KL&repo=sulphite-safe)](https://github.com/Ms-KL/sulphite-safe)
+
+[![Tetris](https://github-readme-stats.vercel.app/api/pin/?username=Ms-KL&repo=tetris)](https://github.com/Ms-KL/tetris)
 
 ↑ [Back to Top](#-skip-to)
 
