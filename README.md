@@ -4,8 +4,8 @@
 
 <!-- https://github.com/tandpfun/skill-icons#readme -->
 <p><img src="https://skillicons.dev/icons?i=html,css,js,react,py,django,cs,php,unity,netlify,vscode,vite," height="25" /><br>
-<i>Tech-stack explored via formal and self education<br>
-See <a href="#-my-projects">Projects</a> & <a href="#-current-learning--tech-playgrounds-exploration-revision--challenges">Playgrounds</a> to understand skill / proficiency</i></p>
+<i>Tech-stack explored via formal and self education.<br>
+See <a href="#-current-learning--tech-playgrounds-exploration-revision--challenges"> Playgrounds</a> & <a href="#-my-projects">Projects</a> to understand my proficiency.</i></p>
 
 ---
 
@@ -81,10 +81,10 @@ Looking for Junior Developer or aspiring Data Scientist who's project-driven, _[
 
 ### _Scheduled Events & Training_:
 
-- `12/08/23` - [Level Her Up: Game Development 101](https://levelherup.com.au/) - Build Workshops ✅ registered
-- `29/08/23` - [Level Her Up: Game Development 101](https://levelherup.com.au/) - Build/Release Workshops ✅ registered
-- `16/09/23 - 17/09/23` - [Level Her Up: Game Jam Weekend](https://levelherup.com.au/) ✅ registered
-- `07/10/23` [DDD Conference](https://dddperth.com/) - ✅ bought ticket
+- `12/08/23` - [Level Her Up: Game Development 101](https://levelherup.com.au/) - Build Workshops (Unity, C#, Blender)
+- `29/08/23` - [Level Her Up: Game Development 101](https://levelherup.com.au/) - Build/Release Workshops (Aseprite)
+- `16/09/23 - 17/09/23` - [Level Her Up: Game Jam Weekend](https://levelherup.com.au/)
+- `07/10/23` [DDD Conference](https://dddperth.com/)
 
 <br>
 
