@@ -3,29 +3,36 @@
 # **Kristy Leigh:** <br>Junior Developer & Data Science Enthusiast
 
 <!-- https://github.com/tandpfun/skill-icons#readme -->
-<!-- <p><img src="https://skillicons.dev/icons?i=html,css,js,react,py,django" height="25" /></p> -->
+<p><img src="https://skillicons.dev/icons?i=html,css,js,react,py,django,cs,php,unity,netlify,vscode,vite," height="25" /><br>
+<i>Tech-stack explored via formal and self education<br>
+See <a href="#-my-projects">Projects</a> & <a href="#-current-learning--tech-playgrounds-exploration-revision--challenges">Playgrounds</a> to understand skill / proficiency</i></p>
+
+---
 
 ## ↳ Skip To:
 
 <ul>
+  <li style="list-style-type: none;">✨ <a href="https://ms-kl.github.io/">Portfolio Website</a></li>
+  <li style="list-style-type: none;">🔗 <a href="https://linktr.ee/kristyleigh"> Business Card / LinkTree </a></li>
+  <br>
   <li style="list-style-type: none;">⭐ <a href="#-about-me">About Me</a></li>
   <li style="list-style-type: none;">⚡ <a href="#-career-transition-my-tech-journey">Career Transition: My Tech Journey </a></li>
 
   <br>
   <li style="list-style-type: none;">📅 <a href="#scheduled-events--training"> Scheduled Events & Training </a></li>
-  <li style="list-style-type: none;">🧠 <a href="#-current-learning--tech-playgrounds-exploration-revision--challenges"> Current Learning & Tech Playgrounds</a> { <img src="https://skillicons.dev/icons?i=py,php,cs" height="15" /> }<br></li>
+  <li style="list-style-type: none;">🧠 <a href="#-current-learning--tech-playgrounds-exploration-revision--challenges"> Current Learning & Tech Playgrounds:</a>
+  <img src="https://skillicons.dev/icons?i=py,php,cs,unity,django" height="15" /></li>
   <li style="list-style-type: none;">🎓 <a href="#-education-training-event--networking-history"> Education, Training, Event & Networking History </a></li>
 
   <br>
 
   <li style="list-style-type: none;">💻<a href="#-my-projects"> My Projects:</a></li>
-  <li style="list-style-type: none;">🚀 <a href="#personal-projects-current--wip ">Projects: Personal WIP/Current </a> { <img src="https://skillicons.dev/icons?i=py,django" height="15" />}</li>
-  <li style="list-style-type: none;">  <img src="images/uwa-logo.png" width="15px" height="15px" /> <a href="#-uwa-post-graduate-certificate-of-commerce-projects">&#160;Projects: UWA GradCertComm </a> { <img src="https://skillicons.dev/icons?i=py" height="15" /> }</li>
-  <li style="list-style-type: none;">  <img src="images/shecodes-icon.png" width="15px" height="15px" /> <a href="#-she-codes-plus-projects">&#160;Projects: She Codes Plus </a>✨<a href="https://ms-kl.github.io/">Portfolio </a>  { <img src="https://skillicons.dev/icons?i=html,css,js,react,py,django,vite,netlify" height="15" /> }</li>
+  <li style="list-style-type: none;">🚀 <a href="#personal-projects-current--wip ">Projects: Personal WIP/Current </a> <img src="https://skillicons.dev/icons?i=py,django" height="15" /></li>
+  <li style="list-style-type: none;">  <img src="images/uwa-logo.png" width="15px" height="15px" /> <a href="#-uwa-post-graduate-certificate-of-commerce-projects">&#160;Projects: UWA GradCertComm </a> <img src="https://skillicons.dev/icons?i=py" height="15" /></li>
+  <li style="list-style-type: none;">  <img src="images/shecodes-icon.png" width="15px" height="15px" /> <a href="#-she-codes-plus-projects">&#160;Projects: She Codes Plus </a><img src="https://skillicons.dev/icons?i=html,css,js,react,py,django,vite,netlify" height="15" /></li>
 
   <br>
-  <li style="list-style-type: none;">🔗 <a href="https://linktr.ee/kristyleigh"> Business Card / LinkTree </a></li>
-  <!-- <li style="list-style-type: none;">📈 <a href="#-stats">GitHub Stats </a></li> -->
+  <li style="list-style-type: none;">📈 <a href="#-stats">GitHub Stats </a></li>
 </ul>
 
 ---
@@ -98,10 +105,11 @@ _See [My Projects](#-my-projects) for in-depth exploration & revision of my lear
 ### _Tech Playgrounds:_
 
 - <img src="https://skillicons.dev/icons?i=cs" height="15" /> [C# Playground](https://github.com/Ms-KL/csharp-playground)
+- <img src="https://skillicons.dev/icons?i=unity,cs" height="15" /> [Unity C# Playground](https://github.com/Ms-KL/unity-csharp-playground)
 - <img src="https://skillicons.dev/icons?i=py" height="15" /> [LLM OpenAI API Playground](https://github.com/Ms-KL/llm-openai-api-playground)
 - <img src="https://skillicons.dev/icons?i=py" height="15" /> [Python Data Science Playground](https://github.com/Ms-KL/python-data-science-playground)
 - <img src="https://skillicons.dev/icons?i=py" height="15" /> [Streamlit Playground](https://github.com/Ms-KL/streamlit-playground)
-- <img src="https://skillicons.dev/icons?i=py" height="15" /> [Restful API Playground](https://github.com/Ms-KL/restfulapi-playground)
+- <img src="https://skillicons.dev/icons?i=py,django" height="15" /> [Restful API Playground](https://github.com/Ms-KL/restfulapi-playground)
 - <img src="https://skillicons.dev/icons?i=py" height="15" /> [Python Mentor Prep: She Codes One Day Workshop](https://github.com/Ms-KL/python-shecodes-workshop-mentor-prep)
 - <img src="https://skillicons.dev/icons?i=php" height="15" /> [PHP Playground](https://github.com/Ms-KL/php-playground)
 
@@ -173,7 +181,7 @@ _See my:_ <br>
 
 - 2023:
 
-  - `29/07/23` - [Level Her Up: Game Development 101](https://levelherup.com.au/) - Narrative Design Workshop
+  - `29/07/23` [Level Her Up: Game Development 101](https://levelherup.com.au/) - Narrative Design Workshop
   - `14/07/23` [Reconnecting Women to their Worth, their Value and the Workplace](https://events.humanitix.com/stempower) - STEMPower Program w/ WiTWA
   - `12/07/23` [Operating Systems and Development Environments](https://events.humanitix.com/webinar-operating-systems-and-development-environments-with-oliver-lavers-powered-by-she-codes) - w/ Oliver Lavers
   - `06/07/23` [AWS Developer Webinar Series: Harnessing the power of Generative AI](https://pages.awscloud.com/anz-developer-webinar-generative-ai.html?trk=1c8a88f3-1206-4b6d-984e-e75cf60094d3&sc_channel=em) - AWS
@@ -220,7 +228,7 @@ _See my:_ <br>
 
 <!-- Planned additions -->
 
-<!-- ## 📈 Stats:
+## 📈 Stats:
 
 <br>
 
@@ -232,12 +240,19 @@ _See my:_ <br>
 
 ### **_Most Used Languages Disclaimer:_**
 
+- The GitHub statistics above do not indicate my skill level or the languages I am most proficient in.
+- I have overridden the `ipynb` file type to be counted as `Python` instead of `Jupyter Notebook`.
+  <br>
+
+↑ [Back to Top](#-skip-to)
+
+<!--
+### **_Most Used Languages Disclaimer:_**
+
 - **Incorrect weighting of Jupyter Notebooks in stats:** <br>
-  The GitHub statistics above may be skewed due to the removal of Jupyter Notebooks. These notebooks are counted as .ipynb files, which can result in an incorrect weighting towards this file type and no contributions to Python.
+  The GitHub statistics above may be skewed due to the removal of Jupyter Notebooks. These notebooks are counted as `.ipynb` files, which can result in an incorrect weighting towards this file type and no contributions to Python.
 
 - **Removal of Jupyter Notebooks in stats = Lower Python Stats:**<br>
   To provide a more accurate representation of my top languages, I have removed all Jupyter Notebooks from the statistics. As a result, the Python stats will appear lower than expected.
 
-<br>
-
---- -->
+<br> -->
