@@ -3,27 +3,27 @@
 # **Kristy Leigh:** <br>Junior Developer & Data Science Enthusiast
 
 <!-- https://github.com/tandpfun/skill-icons#readme -->
-<p><img src="https://skillicons.dev/icons?i=html,css,js,react,py,django" height="25" /></p>
+<!-- <p><img src="https://skillicons.dev/icons?i=html,css,js,react,py,django" height="25" /></p> -->
 
 ## ↳ Skip To:
 
 <ul>
   <li style="list-style-type: none;">⭐ <a href="#-about-me">About Me</a></li>
   <li style="list-style-type: none;">⚡ <a href="#-career-transition-my-tech-journey">Career Transition: My Tech Journey </a></li>
+
+  <br>
   <li style="list-style-type: none;">📅 <a href="#scheduled-events--training"> Scheduled Events & Training </a></li>
-  <li style="list-style-type: none;">🧠 <a href="#-current-learning--tech-playgrounds-exploration-revision--challenges"> Current Learning & Tech Playgrounds</a></li>
+  <li style="list-style-type: none;">🧠 <a href="#-current-learning--tech-playgrounds-exploration-revision--challenges"> Current Learning & Tech Playgrounds</a> { <img src="https://skillicons.dev/icons?i=py,php,cs" height="15" /> }<br></li>
   <li style="list-style-type: none;">🎓 <a href="#-education-training-event--networking-history"> Education, Training, Event & Networking History </a></li>
 
   <br>
 
-  <li style="list-style-type: none;">💻<a href="#-my-projects">My Projects:</a></li>
-  <li style="list-style-type: none;">🚀 <a href="#personal-projects-current--wip ">Projects: Personal WIP/Current </a></li>
-  <li style="list-style-type: none;">  <img src="images/uwa-logo.png" width="15px" height="15px" /> <a href="#-uwa-post-graduate-certificate-of-commerce-projects">&#160;Projects: UWA GradCertComm </a></li>
-  <li style="list-style-type: none;">  <img src="images/shecodes-icon.png" width="15px" height="15px" /> <a href="#-she-codes-plus-projects">&#160;Projects: She Codes Plus </a></li>
+  <li style="list-style-type: none;">💻<a href="#-my-projects"> My Projects:</a></li>
+  <li style="list-style-type: none;">🚀 <a href="#personal-projects-current--wip ">Projects: Personal WIP/Current </a> { <img src="https://skillicons.dev/icons?i=py,django" height="15" />}</li>
+  <li style="list-style-type: none;">  <img src="images/uwa-logo.png" width="15px" height="15px" /> <a href="#-uwa-post-graduate-certificate-of-commerce-projects">&#160;Projects: UWA GradCertComm </a> { <img src="https://skillicons.dev/icons?i=py" height="15" /> }</li>
+  <li style="list-style-type: none;">  <img src="images/shecodes-icon.png" width="15px" height="15px" /> <a href="#-she-codes-plus-projects">&#160;Projects: She Codes Plus </a>✨<a href="https://ms-kl.github.io/">Portfolio </a>  { <img src="https://skillicons.dev/icons?i=html,css,js,react,py,django,vite,netlify" height="15" /> }</li>
 
   <br>
-
-  <li style="list-style-type: none;">✨ <a href="https://ms-kl.github.io/"> Developer Portfolio </a></li>
   <li style="list-style-type: none;">🔗 <a href="https://linktr.ee/kristyleigh"> Business Card / LinkTree </a></li>
   <!-- <li style="list-style-type: none;">📈 <a href="#-stats">GitHub Stats </a></li> -->
 </ul>
@@ -74,8 +74,6 @@ Looking for Junior Developer or aspiring Data Scientist who's project-driven, _[
 
 ### _Scheduled Events & Training_:
 
-- `29/07/23` - [Level Her Up: Game Development 101](https://levelherup.com.au/) - Design Workshops ✅ registered
-- `02/08/23 - 03/08/23` [Data & AI for Business Conference](https://wadsih.org.au/conference/) - ✨ Volunteer & attendee
 - `12/08/23` - [Level Her Up: Game Development 101](https://levelherup.com.au/) - Build Workshops ✅ registered
 - `29/08/23` - [Level Her Up: Game Development 101](https://levelherup.com.au/) - Build/Release Workshops ✅ registered
 - `16/09/23 - 17/09/23` - [Level Her Up: Game Jam Weekend](https://levelherup.com.au/) ✅ registered
@@ -99,12 +97,13 @@ _See [My Projects](#-my-projects) for in-depth exploration & revision of my lear
 
 ### _Tech Playgrounds:_
 
-- <img src="https://skillicons.dev/icons?i=py" height="20" /> [LLM OpenAI API Playground](https://github.com/Ms-KL/llm-openai-api-playground)
-- <img src="https://skillicons.dev/icons?i=py" height="20" /> [Python Data Science Playground](https://github.com/Ms-KL/python-data-science-playground)
-- <img src="https://skillicons.dev/icons?i=py" height="20" /> [Streamlit Playground](https://github.com/Ms-KL/streamlit-playground)
-- <img src="https://skillicons.dev/icons?i=py" height="20" /> [Restful API Playground](https://github.com/Ms-KL/restfulapi-playground)
-- <img src="https://skillicons.dev/icons?i=py" height="20" /> [Python Mentor Prep: She Codes One Day Workshop](https://github.com/Ms-KL/python-shecodes-workshop-mentor-prep)
-- <img src="https://skillicons.dev/icons?i=php" height="20" /> [PHP Playground](https://github.com/Ms-KL/php-playground)
+- <img src="https://skillicons.dev/icons?i=cs" height="15" /> [C# Playground](https://github.com/Ms-KL/csharp-playground)
+- <img src="https://skillicons.dev/icons?i=py" height="15" /> [LLM OpenAI API Playground](https://github.com/Ms-KL/llm-openai-api-playground)
+- <img src="https://skillicons.dev/icons?i=py" height="15" /> [Python Data Science Playground](https://github.com/Ms-KL/python-data-science-playground)
+- <img src="https://skillicons.dev/icons?i=py" height="15" /> [Streamlit Playground](https://github.com/Ms-KL/streamlit-playground)
+- <img src="https://skillicons.dev/icons?i=py" height="15" /> [Restful API Playground](https://github.com/Ms-KL/restfulapi-playground)
+- <img src="https://skillicons.dev/icons?i=py" height="15" /> [Python Mentor Prep: She Codes One Day Workshop](https://github.com/Ms-KL/python-shecodes-workshop-mentor-prep)
+- <img src="https://skillicons.dev/icons?i=php" height="15" /> [PHP Playground](https://github.com/Ms-KL/php-playground)
 
 ↑ [Back to Top](#-skip-to)
 
@@ -114,11 +113,16 @@ _See [My Projects](#-my-projects) for in-depth exploration & revision of my lear
 
 ### <img src="images/shecodes-icon.png" width="20px" height="20px" /> She Codes Plus Projects:
 
-✨ = portfolio was redesigned. Please see my [current / v2 Portfolio.](https://ms-kl.github.io/)
+⚠️ Portfolio v1 = [legacy](https://ms-kl.github.io/v1)<br>
+_Created for She Codes Plus project #1_
+<br>
+
+✨ Portfolio v2 = [current](https://ms-kl.github.io)<br>
+_Redesigned and includes breakdown of projects, video tours and more!_
 
 |       | Tech                             | Project                                                                                          | Code                                                                                 |
 | :---- | :------------------------------- | :----------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------- |
-| ✅'22 | `HTML` `CSS`                     | [Portfolio Website v1 ✨](https://ms-kl.github.io/v1)                                            | [Repo](https://github.com/Ms-KL/Ms-KL.github.io/tree/main/v1)                        |
+| ✅'22 | `HTML` `CSS`                     | [Portfolio Website v1 ⚠️ (legacy)](https://ms-kl.github.io/v1)                                   | [Repo](https://github.com/Ms-KL/Ms-KL.github.io/tree/main/v1)                        |
 | ✅'22 | `Python`                         | Weather Data Processing                                                                          | [Repo](https://github.com/Ms-KL/she-codes-python-weather-project-Ms-KL)              |
 | ✅'22 | `Python` `Django`                | [News Website](https://www.loom.com/share/fa6a7813a17f41b69c7a54d8ddf87a7a)                      | [Repo](https://github.com/Ms-KL/she-codes-django-news-project-Ms-KL)                 |
 | ✅'23 | `Python` `Django REST Framework` | [Crowdfunding App (back-end)](https://icy-dew-540.fly.dev/)                                      | [Repo](https://github.com/Ms-KL/she-codes-crowdfunding-api-project-Ms-KL)            |
@@ -169,6 +173,8 @@ _See my:_ <br>
 
 - 2023:
 
+  - `02/08/23 - 03/08/23` [Data & AI for Business Conference](https://wadsih.org.au/conference/) - ✨ Volunteer
+  - `29/07/23` - [Level Her Up: Game Development 101](https://levelherup.com.au/) - Narrative Design Workshop
   - `14/07/23` [Reconnecting Women to their Worth, their Value and the Workplace](https://events.humanitix.com/stempower) - STEMPower Program w/ WiTWA
   - `12/07/23` [Operating Systems and Development Environments](https://events.humanitix.com/webinar-operating-systems-and-development-environments-with-oliver-lavers-powered-by-she-codes) - w/ Oliver Lavers
   - `06/07/23` [AWS Developer Webinar Series: Harnessing the power of Generative AI](https://pages.awscloud.com/anz-developer-webinar-generative-ai.html?trk=1c8a88f3-1206-4b6d-984e-e75cf60094d3&sc_channel=em) - AWS
