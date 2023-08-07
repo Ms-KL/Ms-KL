@@ -173,12 +173,11 @@ _See my:_ <br>
 
 - 2023:
 
-  - `02/08/23 - 03/08/23` [Data & AI for Business Conference](https://wadsih.org.au/conference/) - ✨ Volunteer
   - `29/07/23` - [Level Her Up: Game Development 101](https://levelherup.com.au/) - Narrative Design Workshop
   - `14/07/23` [Reconnecting Women to their Worth, their Value and the Workplace](https://events.humanitix.com/stempower) - STEMPower Program w/ WiTWA
   - `12/07/23` [Operating Systems and Development Environments](https://events.humanitix.com/webinar-operating-systems-and-development-environments-with-oliver-lavers-powered-by-she-codes) - w/ Oliver Lavers
   - `06/07/23` [AWS Developer Webinar Series: Harnessing the power of Generative AI](https://pages.awscloud.com/anz-developer-webinar-generative-ai.html?trk=1c8a88f3-1206-4b6d-984e-e75cf60094d3&sc_channel=em) - AWS
-  - `17/06/23` She Codes One Day Workshop - ✨ Python volunteer mentor
+  - `17/06/23` She Codes One Day Workshop _✨Volunteer Python Mentor_
   - `14/06/23` [Let's talk about Data Science, AI and ML](https://events.humanitix.com/checkpoint-talk-let-s-talk-about-data-science-ai-and-machine-learning-with-asli-yoruk-and-reece-jocumsen-powered-by-she-codes) - w/ Asli Yoruk & Reese Jocumsen
   - `18/05/23` Microsoft Level Up with GitHub Copilot & Codespaces
   - `13/03/23` Microsoft Azure Open Source Night
@@ -198,19 +197,20 @@ _See my:_ <br>
 - Monthly:
   - Python WA Meetup
 - 2023:
+  - `02/08/23 - 03/08/23` [Data & AI for Business Conference](https://wadsih.org.au/conference/) - WADSIH _✨Volunteer_
   - `13/06/23` [Data Driven Decisions (D3) Conference - “AI in the Wild”](https://www.uwadatainstitute.org.au/conference) - UWA Data Institute
   - `08/06/23` [AWSome Day Online Conference](https://aws.amazon.com/events/awsome-day/awsome-day-online/) - AWS
   - `07/06/23` [Female Coders Collective (FC2) Meetup](https://www.meetup.com/en-AU/female-coders-collective/)
-  - `02/06/23` [Latency Conference 2023](https://www.latencyconf.io/)
-  - `22/02/23` [AWS Innovate - Data and AI/ML Edition](https://aws.amazon.com/events/aws-innovate/apj/aiml-data/)
+  - `02/06/23` [Latency Conference 2023](https://www.latencyconf.io/) - Mechanical Rock
+  - `22/02/23` [AWS Innovate - Data and AI/ML Edition](https://aws.amazon.com/events/aws-innovate/apj/aiml-data/) - AWS
   - `20/02/23` She Codes Perth Networking Event
   - `09/02/23` STOMC Cyber Security Meetup
 - 2022:
-  - `08/12/22` [AI Industry Day @ 35th Australasian Joint Conference on AI (AI2022)](https://ajcai2022.org/)
+  - `08/12/22` [AI Industry Day @ 35th Australasian Joint Conference on AI (AI2022)](https://ajcai2022.org/) - UWA
   - `06/12/22` [West Tech Women 2022](https://www.westtechfest.com.au/event/west-tech-women/) - West Tech Fest 2022
   - `05/12/22` [Cybotics AI Day](https://www.westtechfest.com.au/event/cybotics-ai-day/) - West Tech Fest 2022
   - `21/11/22` She Codes x Robert Walters Networking Event
-  - `18/11/22` [WITWA Tech[+] Awards Night](https://www.witwa.org.au/gallery/2022-witwa-tech-awards-night/)
+  - `18/11/22` [WITWA Tech[+] Awards Night](https://www.witwa.org.au/gallery/2022-witwa-tech-awards-night/) - WITWA
 
 <br>
 
