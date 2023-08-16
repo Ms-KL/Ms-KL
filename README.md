@@ -96,9 +96,11 @@ Looking for Junior Developer or aspiring Data Scientist who's project-driven, _[
 
 _See [My Projects](#-my-projects) for in-depth exploration & revision of my learning._
 
-### _Tech Playgrounds:_
+### _Challenges:_
 
-- <img src="https://skillicons.dev/icons?i=py" height="15" /> [Complete LeetCode Challenges](https://gist.github.com/Ms-KL/193e1cf5adea17fd9b3c43ab0e6a30f8)
+![LeetCode](https://github-readme-stats.vercel.app/api/gist?id=193e1cf5adea17fd9b3c43ab0e6a30f8)
+
+### _Tech Playgrounds:_
 - <img src="https://skillicons.dev/icons?i=cs" height="15" /> [C# Playground](https://github.com/Ms-KL/csharp-playground)
 - <img src="https://skillicons.dev/icons?i=unity,cs" height="15" /> [Unity C# Playground](https://github.com/Ms-KL/unity-csharp-playground)
 - <img src="https://skillicons.dev/icons?i=py" height="15" /> [LLM OpenAI API Playground](https://github.com/Ms-KL/llm-openai-api-playground)
