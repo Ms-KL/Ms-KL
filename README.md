@@ -27,7 +27,7 @@ See <a href="#-current-learning--tech-playgrounds-exploration-revision--challeng
   <br>
 
   <li style="list-style-type: none;">💻<a href="#-my-projects"> My Projects:</a></li>
-  <li style="list-style-type: none;">🚀 <a href="#personal-projects-current--wip ">Projects: Personal WIP/Current </a> <img src="https://skillicons.dev/icons?i=py,django" height="15" /></li>
+  <li style="list-style-type: none;">🚀 <a href="#-personal-projects-current--wip">Projects: Personal WIP/Current </a> <img src="https://skillicons.dev/icons?i=py,django" height="15" /></li>
   <li style="list-style-type: none;">  <img src="images/uwa-logo.png" width="15px" height="15px" /> <a href="#-uwa-post-graduate-certificate-of-commerce-projects">&#160;Projects: UWA GradCertComm </a> <img src="https://skillicons.dev/icons?i=py" height="15" /></li>
   <li style="list-style-type: none;">  <img src="images/shecodes-icon.png" width="15px" height="15px" /> <a href="#-she-codes-plus-projects">&#160;Projects: She Codes Plus </a><img src="https://skillicons.dev/icons?i=html,css,js,react,py,django,vite,netlify" height="15" /></li>
 
@@ -96,14 +96,9 @@ Looking for Junior Developer or aspiring Data Scientist who's project-driven, _[
 
 _See [My Projects](#-my-projects) for in-depth exploration & revision of my learning._
 
-### _External Learning:_
-
-- ["AWS Cloud Quest" (AWS)](https://cloudquest.skillbuilder.aws/?refresh=true)
-- ["Being Agile" (Udemy)](https://www.udemy.com/share/10769E3@nMGKDQnmsActrYd3pCVHhxT7OP3xTI9PS1GuuZlvl1LFsk8nRKjaHC-mdwV2juvy/)
-- ["Agile Foundations (LinkedIn)](https://www.linkedin.com/learning/agile-foundations)
-
 ### _Tech Playgrounds:_
 
+- <img src="https://skillicons.dev/icons?i=py" height="15" /> [Complete LeetCode Challenges](https://gist.github.com/Ms-KL/193e1cf5adea17fd9b3c43ab0e6a30f8)
 - <img src="https://skillicons.dev/icons?i=cs" height="15" /> [C# Playground](https://github.com/Ms-KL/csharp-playground)
 - <img src="https://skillicons.dev/icons?i=unity,cs" height="15" /> [Unity C# Playground](https://github.com/Ms-KL/unity-csharp-playground)
 - <img src="https://skillicons.dev/icons?i=py" height="15" /> [LLM OpenAI API Playground](https://github.com/Ms-KL/llm-openai-api-playground)
@@ -112,6 +107,12 @@ _See [My Projects](#-my-projects) for in-depth exploration & revision of my lear
 - <img src="https://skillicons.dev/icons?i=py,django" height="15" /> [Restful API Playground](https://github.com/Ms-KL/restfulapi-playground)
 - <img src="https://skillicons.dev/icons?i=py" height="15" /> [Python Mentor Prep: She Codes One Day Workshop](https://github.com/Ms-KL/python-shecodes-workshop-mentor-prep)
 - <img src="https://skillicons.dev/icons?i=php" height="15" /> [PHP Playground](https://github.com/Ms-KL/php-playground)
+
+### _External Learning:_
+
+- ["AWS Cloud Quest" (AWS)](https://cloudquest.skillbuilder.aws/?refresh=true)
+- ["Being Agile" (Udemy)](https://www.udemy.com/share/10769E3@nMGKDQnmsActrYd3pCVHhxT7OP3xTI9PS1GuuZlvl1LFsk8nRKjaHC-mdwV2juvy/)
+- ["Agile Foundations (LinkedIn)](https://www.linkedin.com/learning/agile-foundations)
 
 ↑ [Back to Top](#-skip-to)
 
