@@ -3,8 +3,8 @@
 # **Kristy Leigh:** <br>Junior Developer & Data Science Enthusiast
 
 <!-- https://github.com/tandpfun/skill-icons#readme -->
-<p><img src="https://skillicons.dev/icons?i=html,css,js,react,py,django,cs,php,unity,netlify,vscode,vite," height="25" /><br>
-<i>Tech-stack explored via formal and self education.<br>
+<p><img src="https://skillicons.dev/icons?i=html,css,js,react,py,django,cs,php,unity,netlify,vscode,vite,git,sqlite" height="25" /><br>
+<i>Tech-stack explored via formal and self-education.<br>
 See <a href="#-current-learning--tech-playgrounds-exploration-revision--challenges"> Playgrounds</a> & <a href="#-my-projects">Projects</a> to understand my proficiency.</i></p>
 
 ---
@@ -101,6 +101,7 @@ _See [My Projects](#-my-projects) for in-depth exploration & revision of my lear
 [![LeetCode](https://github-readme-stats.vercel.app/api/gist?id=193e1cf5adea17fd9b3c43ab0e6a30f8)](https://gist.github.com/Ms-KL/193e1cf5adea17fd9b3c43ab0e6a30f8)
 
 ### _Tech Playgrounds:_
+
 - <img src="https://skillicons.dev/icons?i=sqlite" height="15" /> [SQL Playground](https://github.com/Ms-KL/sql-playground)
 - <img src="https://skillicons.dev/icons?i=cs" height="15" /> [C# Playground](https://github.com/Ms-KL/csharp-playground)
 - <img src="https://skillicons.dev/icons?i=unity,cs" height="15" /> [Unity C# Playground](https://github.com/Ms-KL/unity-csharp-playground)
@@ -113,9 +114,11 @@ _See [My Projects](#-my-projects) for in-depth exploration & revision of my lear
 
 ### _External Learning:_
 
+- ["Object Oriented Design" (LinkedIn)](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3)
+- ["Learning Git and GitHub" (LinkedIn)](https://www.linkedin.com/learning/learning-git-and-github-14213624/)
 - ["AWS Cloud Quest" (AWS)](https://cloudquest.skillbuilder.aws/?refresh=true)
 - ["Being Agile" (Udemy)](https://www.udemy.com/share/10769E3@nMGKDQnmsActrYd3pCVHhxT7OP3xTI9PS1GuuZlvl1LFsk8nRKjaHC-mdwV2juvy/)
-- ["Agile Foundations (LinkedIn)](https://www.linkedin.com/learning/agile-foundations)
+- ["Agile Foundations" (LinkedIn)](https://www.linkedin.com/learning/agile-foundations)
 
 ↑ [Back to Top](#-skip-to)
 
