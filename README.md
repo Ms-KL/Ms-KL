@@ -81,9 +81,6 @@ Looking for Junior Developer or aspiring Data Scientist who's project-driven, _[
 
 ### _Scheduled Events & Training_:
 
-- `12/08/23` - [Level Her Up: Game Development 101](https://levelherup.com.au/) - Build Workshops (Unity, C#, Blender)
-- `29/08/23` - [Level Her Up: Game Development 101](https://levelherup.com.au/) - Build/Release Workshops (Aseprite)
-- `16/09/23 - 17/09/23` - [Level Her Up: Game Jam Weekend](https://levelherup.com.au/)
 - `07/10/23` [DDD Conference](https://dddperth.com/)
 
 <br>
@@ -187,7 +184,7 @@ _See my:_ <br>
 ### _Training & Workshops Attended_:
 
 - 2023:
-
+  - `12/08/23` - [Level Her Up: Game Development 101](https://levelherup.com.au/) - Build Workshops (Unity)
   - `29/07/23` [Level Her Up: Game Development 101](https://levelherup.com.au/) - Narrative Design Workshop
   - `14/07/23` [Reconnecting Women to their Worth, their Value and the Workplace](https://events.humanitix.com/stempower) - STEMPower Program w/ WiTWA
   - `12/07/23` [Operating Systems and Development Environments](https://events.humanitix.com/webinar-operating-systems-and-development-environments-with-oliver-lavers-powered-by-she-codes) - w/ Oliver Lavers
