@@ -61,7 +61,7 @@ Looking for Junior Developer or aspiring Data Scientist who's project-driven, _[
 
 ## ⚡ Career Transition: My Tech Journey
 
-- 🎯 _Career Transition Goal:_ <br>To gain a role in Data Science and/or (Software or Game) Development in 2023.
+- 🎯 _Career Transition Goal:_ <br>To gain a role in Software Development and/or Data Science in 2023. I achieved this goal in September 2023, gaining my first role as a Junior Software Developer.
 
 - 📜 _Career Background:_<br>
   After over 15 years of experience as a Senior Administrator, Trainer, and Bookkeeper, I commenced a career break in July 2022 to focus on transitioning into the tech industry.
@@ -102,15 +102,15 @@ _See [My Projects](#-my-projects) for in-depth exploration & revision of my lear
 
 ### _Tech Playgrounds:_
 
-- <img src="https://skillicons.dev/icons?i=sqlite" height="15" /> [SQL Playground](https://github.com/Ms-KL/sql-playground)
 - <img src="https://skillicons.dev/icons?i=cs" height="15" /> [C# Playground](https://github.com/Ms-KL/csharp-playground)
-- <img src="https://skillicons.dev/icons?i=unity,cs" height="15" /> [Unity C# Playground](https://github.com/Ms-KL/unity-csharp-playground)
 - <img src="https://skillicons.dev/icons?i=py" height="15" /> [LLM OpenAI API Playground](https://github.com/Ms-KL/llm-openai-api-playground)
 - <img src="https://skillicons.dev/icons?i=py" height="15" /> [Python Data Science Playground](https://github.com/Ms-KL/python-data-science-playground)
 - <img src="https://skillicons.dev/icons?i=py" height="15" /> [Streamlit Playground](https://github.com/Ms-KL/streamlit-playground)
 - <img src="https://skillicons.dev/icons?i=py,django" height="15" /> [Restful API Playground](https://github.com/Ms-KL/restfulapi-playground)
 - <img src="https://skillicons.dev/icons?i=py" height="15" /> [Python Mentor Prep: She Codes One Day Workshop](https://github.com/Ms-KL/python-shecodes-workshop-mentor-prep)
 - <img src="https://skillicons.dev/icons?i=php" height="15" /> [PHP Playground](https://github.com/Ms-KL/php-playground)
+- <img src="https://skillicons.dev/icons?i=sqlite" height="15" /> [SQL Playground](https://github.com/Ms-KL/sql-playground)
+- <img src="https://skillicons.dev/icons?i=unity,cs" height="15" /> [Unity C# Playground](https://github.com/Ms-KL/unity-csharp-playground)
 
 ### _External Learning:_
 
@@ -248,7 +248,7 @@ _See my:_ <br>
 ### **_Most Used Languages Disclaimer:_**
 
 - The GitHub statistics above do not indicate my skill level or the languages I am most proficient in.
-- I have overridden the `ipynb` file type to be counted as `Python` instead of `Jupyter Notebook`.
+- I have overridden the `ipynb` file type to be counted as `Python` or `C#` (instead of `Jupyter Notebook`).
   <br>
 
 ↑ [Back to Top](#-skip-to)
