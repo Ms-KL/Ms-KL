@@ -7,6 +7,8 @@
 <i>Tech-stack explored via formal and self-education.<br>
 See <a href="#-current-learning--tech-playgrounds-exploration-revision--challenges"> Playgrounds</a> & <a href="#-my-projects">Projects</a> to understand my proficiency.</i></p>
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ms-KL&layout=compact)
+
 ---
 
 ## ↳ Skip To:
@@ -81,7 +83,7 @@ Looking for Junior Developer or aspiring Data Scientist who's project-driven, _[
 
 ### _Scheduled Events & Training_:
 
-- `07/10/23` [DDD Conference](https://dddperth.com/)
+
 
 <br>
 
@@ -184,7 +186,7 @@ _See my:_ <br>
 ### _Training & Workshops Attended_:
 
 - 2023:
-  - `12/08/23` - [Level Her Up: Game Development 101](https://levelherup.com.au/) - Build Workshops (Unity)
+  - `12/08/23` [Level Her Up: Game Development 101](https://levelherup.com.au/) - Build Workshops (Unity)
   - `29/07/23` [Level Her Up: Game Development 101](https://levelherup.com.au/) - Narrative Design Workshop
   - `14/07/23` [Reconnecting Women to their Worth, their Value and the Workplace](https://events.humanitix.com/stempower) - STEMPower Program w/ WiTWA
   - `12/07/23` [Operating Systems and Development Environments](https://events.humanitix.com/webinar-operating-systems-and-development-environments-with-oliver-lavers-powered-by-she-codes) - w/ Oliver Lavers
@@ -209,6 +211,7 @@ _See my:_ <br>
 - Monthly:
   - Python WA Meetup
 - 2023:
+  - `07/10/23` [DDD Conference](https://dddperth.com/)
   - `02/08/23 - 03/08/23` [Data & AI for Business Conference](https://wadsih.org.au/conference/) - WADSIH _✨Volunteer_
   - `13/06/23` [Data Driven Decisions (D3) Conference - “AI in the Wild”](https://www.uwadatainstitute.org.au/conference) - UWA Data Institute
   - `08/06/23` [AWSome Day Online Conference](https://aws.amazon.com/events/awsome-day/awsome-day-online/) - AWS
@@ -231,7 +234,7 @@ _See my:_ <br>
 ---
 
 <!-- Planned additions -->
-
+<!-- 
 ## 📈 Stats:
 
 <br>
@@ -248,7 +251,7 @@ _See my:_ <br>
 - I have overridden the `ipynb` file type to be counted as `Python` or `C#` (instead of `Jupyter Notebook`).
   <br>
 
-↑ [Back to Top](#-skip-to)
+↑ [Back to Top](#-skip-to)-->
 
 <!--
 ### **_Most Used Languages Disclaimer:_**
