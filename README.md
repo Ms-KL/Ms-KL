@@ -1,123 +1,73 @@
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Calibri&weight=400&size=40&duration=4000&pause=2000&color=1549DC&width=600&lines=Kristy+Leigh:+Emerging+Developer)](https://git.io/typing-svg) -->
 
-# **Kristy Leigh:** <br>Junior Developer & Data Science Enthusiast
+# **Kristy Leigh:** <br>Junior Software Developer & Data Science Enthusiast
 
 <!-- https://github.com/tandpfun/skill-icons#readme -->
-<p><img src="https://skillicons.dev/icons?i=html,css,js,react,py,django,cs,php,unity,netlify,vscode,vite,git,sqlite" height="25" /><br>
-<i>Tech-stack explored via formal and self-education.<br>
-See <a href="#-current-learning--tech-playgrounds-exploration-revision--challenges"> Playgrounds</a> & <a href="#-my-projects">Projects</a> to understand my proficiency.</i></p>
+<!-- <p><img src="https://skillicons.dev/icons?i=html,css,js,react,py,django,cs,php,unity,netlify,vscode,vite,git,sqlite" height="25" /><br>-->
+<p><img src="https://skillicons.dev/icons?i=cs,py,django,sqlite,html,css,js,react" height="25" /><br>
+<i>Tech-stack built via She Codes Plus, UWA and self-education.</i><br>
+<!-- See <a href="#-current-learning--tech-playgrounds-exploration-revision--challenges"> Playgrounds</a> & <a href="#-my-projects">Projects</a> to understand my proficiency.</i></p> -->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ms-KL&layout=compact)
 
 ---
-
 ## ↳ Skip To:
 
 <ul>
-  <li style="list-style-type: none;">✨ <a href="https://ms-kl.github.io/">Portfolio Website</a></li>
-  <li style="list-style-type: none;">🔗 <a href="https://linktr.ee/kristyleigh"> Business Card / LinkTree </a></li>
-  <br>
-  <li style="list-style-type: none;">⭐ <a href="#-about-me">About Me</a></li>
-  <li style="list-style-type: none;">⚡ <a href="#-career-transition-my-tech-journey">Career Transition: My Tech Journey </a></li>
-
-  <br>
-  <li style="list-style-type: none;">📅 <a href="#scheduled-events--training"> Scheduled Events & Training </a></li>
-  <li style="list-style-type: none;">🧠 <a href="#-current-learning--tech-playgrounds-exploration-revision--challenges"> Current Learning & Tech Playgrounds:</a>
-  <img src="https://skillicons.dev/icons?i=py,php,cs,unity,django" height="15" /></li>
+  <li style="list-style-type: none;">⭐ <a href="#-about-me"> About Me</a></li>
+  <li style="list-style-type: none;">🔗 <a href="https://linktr.ee/kristyleigh"> Get In Touch </a></li>
+  <li style="list-style-type: none;">💻 <a href="#-my-projects"> My Projects</a></li> 
+  <li style="list-style-type: none;">✨ <a href="https://ms-kl.github.io/"> Dev Portfolio</a></li>
+  <li style="list-style-type: none;">🧠 <a href="#-currently-learning"> Currently Learning</a>    
+  <li style="list-style-type: none;">📅 <a href="#-scheduled-events--training"> Scheduled Events & Training </a></li>
   <li style="list-style-type: none;">🎓 <a href="#-education-training-event--networking-history"> Education, Training, Event & Networking History </a></li>
-
   <br>
+  </ul>
 
-  <li style="list-style-type: none;">💻<a href="#-my-projects"> My Projects:</a></li>
-  <li style="list-style-type: none;">🚀 <a href="#-personal-projects-current--wip">Projects: Personal WIP/Current </a> <img src="https://skillicons.dev/icons?i=py,django" height="15" /></li>
+<!--   <li style="list-style-type: none;">🚀 <a href="#-personal-projects-current--wip">Projects: Personal WIP/Current </a> <img src="https://skillicons.dev/icons?i=py,django" height="15" /></li>
   <li style="list-style-type: none;">  <img src="images/uwa-logo.png" width="15px" height="15px" /> <a href="#-uwa-post-graduate-certificate-of-commerce-projects">&#160;Projects: UWA GradCertComm </a> <img src="https://skillicons.dev/icons?i=py" height="15" /></li>
-  <li style="list-style-type: none;">  <img src="images/shecodes-icon.png" width="15px" height="15px" /> <a href="#-she-codes-plus-projects">&#160;Projects: She Codes Plus </a><img src="https://skillicons.dev/icons?i=html,css,js,react,py,django,vite,netlify" height="15" /></li>
-
-  <br>
-  <li style="list-style-type: none;">📈 <a href="#-stats">GitHub Stats </a></li>
-</ul>
+  <li style="list-style-type: none;">  <img src="images/shecodes-icon.png" width="15px" height="15px" /> <a href="#-she-codes-plus-projects">&#160;Projects: She Codes Plus </a><img src="https://skillicons.dev/icons?i=html,css,js,react,py,django,vite,netlify" height="15" /></li> -->
+<!--   <br> -->
+<!--   <li style="list-style-type: none;">📈 <a href="#-stats">GitHub Stats </a></li> -->
 
 ---
-
 ## ⭐ About Me:
 
-- I'm a junior developer <b>inspired</b> by AI & Data Science 🤖, <b>excited</b> about game development and <b>fascinated</b> by software engineering 💻.
+### 🚀 Kaya! I'm:
+- A Junior Software Developer inspired by AI & Data Science 🤖
+- A Compliance, audit and documentation nerd 🤓
+- Adaptable, curious, and eager to dive into new technologies
+- An enthusiastic attendee at regular industry events, workshops and training sessions
+- An experienced Trainer, Senior Administrator and Bookkeeper, and I have also dabbled in retail management, professional cooking, and voice-over acting careers.
+- Often found immersed in D&D 🧙, playing tabletop games, swing dancing, or playing pinball.
+- Want to learn more? [View my LinkedIn](https://www.linkedin.com/in/kristyleighgray).
 
-- As a <b>compliance, audit and documentation nerd</b> 🤓, I bring excellent attention to detail and organisational prowess to every project.
-
-- I'm <b>adaptable, curious, and eager</b> to dive into new technologies, and _[I love attending industry events, workshops and training sessions](#-education-training-event--networking-history)_ to stay up-to-date.
-
-- I'm an _[experienced Trainer, Senior Administrator and Bookkeeper,](https://www.linkedin.com/in/kristyleighgray/)_ and I have also dabbled in retail management, professional cooking 👩‍🍳, and <b>voice-over acting</b> careers. You can often find me immersed in D&D 🧙, swing dancing, or playing pinball.
-
-<br>
+### ⚡ Career Transition into Tech:
+  - 🎯 **Goal:** To gain a role in Software Development and/or Data Science in 2023 
+  - ✅ **Achieved:** In September 2023, gaining my first role as a Junior Software Developer
+  - 🎓 **Upskilling & Networking Journey:**
+    - Commenced a career break in July 2022 to focus on transitioning into tech
+    - Completed relevant courses, workshops, tutorials and training
+    - Attended conferences, workshops and networking events to gain practical knowledge and experience
+    - Developed new & contributed to projects
 
 ### 🔗 [Get in Touch](https://linktr.ee/kristyleigh)
 
-Looking for Junior Developer or aspiring Data Scientist who's project-driven, _[loves to learn](#-current-learning--scheduled-events)_, gets excited by complex database schemas & AI, and <b>oozes enthusiasm and passion</b>? Let's catch up over coffee ☕, whisky or a game of pinball, and see how my <b>unique skills will add value</b> to your team!
-
-<br>
-
-↑ [Back to Top](#-skip-to)
+Looking for Junior Developer or aspiring Data Scientist who's project-driven, loves to learn, gets excited by complex database schemas & AI, and <b>oozes enthusiasm and passion</b>? Let's catch up over coffee ☕, whisk(e)y or a game of pinball, and see how my <b>unique skills will add value</b> to your team!
 
 ---
-
-## ⚡ Career Transition: My Tech Journey
-
-- 🎯 _Career Transition Goal:_ <br>To gain a role in Software Development and/or Data Science in 2023. I achieved this goal in September 2023, gaining my first role as a Junior Software Developer.
-
-- 📜 _Career Background:_<br>
-  After over 15 years of experience as a Senior Administrator, Trainer, and Bookkeeper, I commenced a career break in July 2022 to focus on transitioning into the tech industry.
-
-- 🎓 _Upskilling & Networking in Tech:_<br>
-  As part of this learning journey, I am enjoying [participating](#-current-learning--scheduled-events) in relevant courses, developing / contributing to projects and [attending](#-education-training-event--networking-history) workshops and networking events to gain practical knowledge and experience.
-
-<br>
-
-↑ [Back to Top](#-skip-to)
+## 🧠 Currently Learning:
+[![C# Playground](https://github-readme-stats.vercel.app/api/pin/?username=Ms-KL&repo=csharp-playground)](https://github.com/Ms-KL/csharp-playground)
 
 ---
 
 ## 📅 Scheduled Events & Training:
 
-🎓 See my [Training & Event History](#-education-training-event--networking-history)
+ - `09/11/23` [WiTWA Tech[+] Conference](https://www.witwa.org.au/initiatives/witwa-conference/)
 
-### _Scheduled Events & Training_:
-
-
+🎓 _See my [Training & Event History](#-education-training-event--networking-history)_
 
 <br>
-
-↑ [Back to Top](#-skip-to)
-
----
-
-## 🧠 Current Learning & Tech Playgrounds: <br>_Exploration, Revision & Challenges_
-
-_See [My Projects](#-my-projects) for in-depth exploration & revision of my learning._
-
-### _Challenges:_
-
-[![LeetCode](https://github-readme-stats.vercel.app/api/gist?id=193e1cf5adea17fd9b3c43ab0e6a30f8)](https://gist.github.com/Ms-KL/193e1cf5adea17fd9b3c43ab0e6a30f8)
-
-### _Tech Playgrounds:_
-
-- <img src="https://skillicons.dev/icons?i=cs" height="15" /> [C# Playground](https://github.com/Ms-KL/csharp-playground)
-- <img src="https://skillicons.dev/icons?i=py" height="15" /> [LLM OpenAI API Playground](https://github.com/Ms-KL/llm-openai-api-playground)
-- <img src="https://skillicons.dev/icons?i=py" height="15" /> [Python Data Science Playground](https://github.com/Ms-KL/python-data-science-playground)
-- <img src="https://skillicons.dev/icons?i=py" height="15" /> [Streamlit Playground](https://github.com/Ms-KL/streamlit-playground)
-- <img src="https://skillicons.dev/icons?i=py,django" height="15" /> [Restful API Playground](https://github.com/Ms-KL/restfulapi-playground)
-- <img src="https://skillicons.dev/icons?i=py" height="15" /> [Python Mentor Prep: She Codes One Day Workshop](https://github.com/Ms-KL/python-shecodes-workshop-mentor-prep)
-- <img src="https://skillicons.dev/icons?i=php" height="15" /> [PHP Playground](https://github.com/Ms-KL/php-playground)
-- <img src="https://skillicons.dev/icons?i=sqlite" height="15" /> [SQL Playground](https://github.com/Ms-KL/sql-playground)
-- <img src="https://skillicons.dev/icons?i=unity,cs" height="15" /> [Unity C# Playground](https://github.com/Ms-KL/unity-csharp-playground)
-
-### _External Learning:_
-
-- ["Object Oriented Design" (LinkedIn)](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3)
-- ["Learning Git and GitHub" (LinkedIn)](https://www.linkedin.com/learning/learning-git-and-github-14213624/)
-- ["AWS Cloud Quest" (AWS)](https://cloudquest.skillbuilder.aws/?refresh=true)
-- ["Being Agile" (Udemy)](https://www.udemy.com/share/10769E3@nMGKDQnmsActrYd3pCVHhxT7OP3xTI9PS1GuuZlvl1LFsk8nRKjaHC-mdwV2juvy/)
-- ["Agile Foundations" (LinkedIn)](https://www.linkedin.com/learning/agile-foundations)
 
 ↑ [Back to Top](#-skip-to)
 
@@ -127,12 +77,8 @@ _See [My Projects](#-my-projects) for in-depth exploration & revision of my lear
 
 ### <img src="images/shecodes-icon.png" width="20px" height="20px" /> She Codes Plus Projects:
 
-⚠️ Portfolio v1 = [legacy](https://ms-kl.github.io/v1)<br>
-_Created for She Codes Plus project #1_
-<br>
-
-✨ Portfolio v2 = [current](https://ms-kl.github.io)<br>
-_Redesigned and includes breakdown of projects, video tours and more!_
+* ⚠️ Portfolio v1 = [legacy](https://ms-kl.github.io/v1) | _Created for She Codes Plus project #1_
+* ✨ Portfolio v2 = [current](https://ms-kl.github.io) | _Redesigned and includes breakdown of projects, video tours and more!_
 
 |       | Tech                             | Project                                                                                          | Code                                                                                 |
 | :---- | :------------------------------- | :----------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------- |
@@ -156,11 +102,11 @@ _Redesigned and includes breakdown of projects, video tours and more!_
 
 <br>
 
-### 🚀 Personal Projects: Current & WIP
+<!-- ### 🚀 Personal Projects: Current & WIP
 
 [![Sulphite Safe App](https://github-readme-stats.vercel.app/api/pin/?username=Ms-KL&repo=sulphite-safe)](https://github.com/Ms-KL/sulphite-safe)
 
-[![Tetris](https://github-readme-stats.vercel.app/api/pin/?username=Ms-KL&repo=tetris)](https://github.com/Ms-KL/tetris)
+[![Tetris](https://github-readme-stats.vercel.app/api/pin/?username=Ms-KL&repo=tetris)](https://github.com/Ms-KL/tetris) -->
 
 ↑ [Back to Top](#-skip-to)
 
@@ -168,13 +114,13 @@ _Redesigned and includes breakdown of projects, video tours and more!_
 
 ## 🎓 Education, Training, Event & Networking History:
 
-_See my:_ <br>
+<!-- _See my:_ <br>
 📅 <a href="#scheduled-events--training"> Scheduled Events & Training </a> <br>
-🧠 <a href="#-current-learning--tech-playgrounds-exploration-revision--challenges"> Current Learning & Tech Playgrounds</a>
+🧠 <a href="#-current-learning--tech-playgrounds-exploration-revision--challenges"> Current Learning & Tech Playgrounds</a> -->
 
 ### _Relative Education & Certifications_:
 
-- `04/23` She Codes Plus Program 22/23 (HTML, CSS, Javascript, ReactJS, Python, Django, DRF)
+- `09/22 - 04/23` She Codes Plus Program 22/23 _(Learned: HTML, CSS, Javascript, ReactJS, Python, Django, DRF)_
 - `03/23` [Analytics for All Upskilling](https://github.com/Ms-KL/Ms-KL/files/11217428/Graduation_Certificate.-.Kristy_Gray_129330.pdf) - Tracked X WADSIH
 - `09/22` [Azure AI Fundamentals](https://www.credly.com/badges/cf1a19d2-5f6e-49d2-9524-5eb88053f091/public_url) - Microsoft
 - `15/12/21` [Graduate Certificate in Commerce](https://user-images.githubusercontent.com/92511648/231627150-ac6555e2-ff70-4065-b046-761b6cb28676.png) - UWA
@@ -263,3 +209,29 @@ _See my:_ <br>
   To provide a more accurate representation of my top languages, I have removed all Jupyter Notebooks from the statistics. As a result, the Python stats will appear lower than expected.
 
 <br> -->
+<!-- ## 🧠 Current Learning & Tech Playgrounds: <br>_Exploration, Revision & Challenges_ -->
+
+<!-- _See [My Projects](#-my-projects) for in-depth exploration & revision of my learning._ -->
+
+<!--   ### _Challenges:_
+
+[![LeetCode](https://github-readme-stats.vercel.app/api/gist?id=193e1cf5adea17fd9b3c43ab0e6a30f8)](https://gist.github.com/Ms-KL/193e1cf5adea17fd9b3c43ab0e6a30f8)-->
+
+<!-- ### _Tech Playgrounds:_-->
+<!--    - <img src="https://skillicons.dev/icons?i=cs" height="15" /> [C# Playground](https://github.com/Ms-KL/csharp-playground)
+- <img src="https://skillicons.dev/icons?i=py" height="15" /> [LLM OpenAI API Playground](https://github.com/Ms-KL/llm-openai-api-playground)
+- <img src="https://skillicons.dev/icons?i=py" height="15" /> [Python Data Science Playground](https://github.com/Ms-KL/python-data-science-playground)
+- <img src="https://skillicons.dev/icons?i=py" height="15" /> [Streamlit Playground](https://github.com/Ms-KL/streamlit-playground)
+- <img src="https://skillicons.dev/icons?i=py,django" height="15" /> [Restful API Playground](https://github.com/Ms-KL/restfulapi-playground)
+- <img src="https://skillicons.dev/icons?i=py" height="15" /> [Python Mentor Prep: She Codes One Day Workshop](https://github.com/Ms-KL/python-shecodes-workshop-mentor-prep)
+- <img src="https://skillicons.dev/icons?i=php" height="15" /> [PHP Playground](https://github.com/Ms-KL/php-playground)
+- <img src="https://skillicons.dev/icons?i=sqlite" height="15" /> [SQL Playground](https://github.com/Ms-KL/sql-playground)
+- <img src="https://skillicons.dev/icons?i=unity,cs" height="15" /> [Unity C# Playground](https://github.com/Ms-KL/unity-csharp-playground) -->
+
+<!--    ### _External Learning:_
+
+- ["Object Oriented Design" (LinkedIn)](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3)
+- ["Learning Git and GitHub" (LinkedIn)](https://www.linkedin.com/learning/learning-git-and-github-14213624/)
+- ["AWS Cloud Quest" (AWS)](https://cloudquest.skillbuilder.aws/?refresh=true)
+- ["Being Agile" (Udemy)](https://www.udemy.com/share/10769E3@nMGKDQnmsActrYd3pCVHhxT7OP3xTI9PS1GuuZlvl1LFsk8nRKjaHC-mdwV2juvy/)
+- ["Agile Foundations" (LinkedIn)](https://www.linkedin.com/learning/agile-foundations) -->
