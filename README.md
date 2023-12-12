@@ -58,12 +58,13 @@ Looking for Junior Developer or aspiring Data Scientist who's project-driven, lo
 ---
 ## 🧠 Currently Learning:
 [![C# Playground](https://github-readme-stats.vercel.app/api/pin/?username=Ms-KL&repo=csharp-playground)](https://github.com/Ms-KL/csharp-playground)
+[![API Development w/ C#, .NET Core & SQL](https://github-readme-stats.vercel.app/api/pin/?username=Ms-KL&repo=ApiDev.Csharp.DotNet.MsSql__Udemy)](https://github.com/Ms-KL/ApiDev.Csharp.DotNet.MsSql__Udemy)
 
 ---
 
 ## 📅 Scheduled Events & Training:
 
- - `09/11/23` [WiTWA Tech[+] Conference](https://www.witwa.org.au/initiatives/witwa-conference/)
+ - nothing scheduled...
 
 🎓 _See my [Training & Event History](#-education-training-event--networking-history)_
 
@@ -157,6 +158,7 @@ Looking for Junior Developer or aspiring Data Scientist who's project-driven, lo
 - Monthly:
   - Python WA Meetup
 - 2023:
+  - `09/11/23` [WiTWA Tech+ Conference](https://www.witwa.org.au/initiatives/witwa-conference/)
   - `07/10/23` [DDD Conference](https://dddperth.com/)
   - `02/08/23 - 03/08/23` [Data & AI for Business Conference](https://wadsih.org.au/conference/) - WADSIH _✨Volunteer_
   - `13/06/23` [Data Driven Decisions (D3) Conference - “AI in the Wild”](https://www.uwadatainstitute.org.au/conference) - UWA Data Institute
